@@ -1,0 +1,4867 @@
+{
+  "api_path": "/albums/120991",
+  "comment_count": 18,
+  "cover_art_url": "https://images.genius.com/6c4cde12a02ad49bebff62799680b04e.1000x1000x1.png",
+  "custom_header_image_url": "https://images.genius.com/1b267297ab82721a092ae0d4b495dd0c.940x586x1.jpg",
+  "full_title": "To Pimp a Butterfly by Kendrick Lamar",
+  "header_image_url": "https://images.genius.com/1b267297ab82721a092ae0d4b495dd0c.940x586x1.jpg",
+  "id": 120991,
+  "lock_state": "editable",
+  "name": "To Pimp a Butterfly",
+  "pyongs_count": 138,
+  "release_date": "2015-03-15",
+  "release_date_components": {
+    "year": 2015,
+    "month": 3,
+    "day": 15
+  },
+  "url": "https://genius.com/albums/Kendrick-lamar/To-pimp-a-butterfly",
+  "current_user_metadata": {
+    "permissions": [
+      "edit",
+      "pyong",
+      "create_comment",
+      "create_question"
+    ],
+    "excluded_permissions": [
+      "destroy",
+      "lock",
+      "super_lock",
+      "unlock",
+      "sort_songs",
+      "see_short_id"
+    ],
+    "iq_on_object": null,
+    "interactions": {
+      "pyong": false
+    }
+  },
+  "song_pageviews": 30813632,
+  "artist": {
+    "api_path": "/artists/1421",
+    "header_image_url": "https://images.genius.com/3514a6d32afe88c48f22263e303f55d0.1000x601x1.jpg",
+    "id": 1421,
+    "image_url": "https://images.genius.com/d6d96651b423fa5a83c38ee2a4c6c939.1000x1000x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Kendrick Lamar",
+    "url": "https://genius.com/artists/Kendrick-lamar",
+    "iq": 53571
+  },
+  "cover_arts": [
+    {
+      "annotated": true,
+      "api_path": "/albums/120991",
+      "id": 29020,
+      "image_url": "https://images.genius.com/6c4cde12a02ad49bebff62799680b04e.1000x1000x1.png",
+      "thumbnail_image_url": "https://images.genius.com/6c4cde12a02ad49bebff62799680b04e.300x300x1.png",
+      "url": "https://genius.com/album_cover_arts/29020"
+    },
+    {
+      "annotated": true,
+      "api_path": "/albums/120991",
+      "id": 184390,
+      "image_url": "https://images.genius.com/5968a2504716858beb504610eef95722.750x750x1.png",
+      "thumbnail_image_url": "https://images.genius.com/5968a2504716858beb504610eef95722.300x300x1.png",
+      "url": "https://genius.com/album_cover_arts/184390"
+    },
+    {
+      "annotated": true,
+      "api_path": "/albums/120991",
+      "id": 184392,
+      "image_url": "https://images.genius.com/7cb01baec4d476678ee7575b6fd8a073.750x750x1.png",
+      "thumbnail_image_url": "https://images.genius.com/7cb01baec4d476678ee7575b6fd8a073.300x300x1.png",
+      "url": "https://genius.com/album_cover_arts/184392"
+    },
+    {
+      "annotated": true,
+      "api_path": "/albums/120991",
+      "id": 184393,
+      "image_url": "https://images.genius.com/3b19ef190d90d0ef06a95913f432d913.750x750x1.png",
+      "thumbnail_image_url": "https://images.genius.com/3b19ef190d90d0ef06a95913f432d913.300x300x1.png",
+      "url": "https://genius.com/album_cover_arts/184393"
+    },
+    {
+      "annotated": true,
+      "api_path": "/albums/120991",
+      "id": 184395,
+      "image_url": "https://images.genius.com/b13add5fa81e69993e4338a999be6ce6.752x752x1.png",
+      "thumbnail_image_url": "https://images.genius.com/b13add5fa81e69993e4338a999be6ce6.300x300x1.png",
+      "url": "https://genius.com/album_cover_arts/184395"
+    },
+    {
+      "annotated": true,
+      "api_path": "/albums/120991",
+      "id": 184396,
+      "image_url": "https://images.genius.com/47ac8341dfdebb137f286853b7634e08.1000x754x1.png",
+      "thumbnail_image_url": "https://images.genius.com/47ac8341dfdebb137f286853b7634e08.300x226x1.png",
+      "url": "https://genius.com/album_cover_arts/184396"
+    },
+    {
+      "annotated": true,
+      "api_path": "/albums/120991",
+      "id": 184397,
+      "image_url": "https://images.genius.com/65e3ed2768f17c2fec78e79b0eeb4b7b.750x750x1.png",
+      "thumbnail_image_url": "https://images.genius.com/65e3ed2768f17c2fec78e79b0eeb4b7b.300x300x1.png",
+      "url": "https://genius.com/album_cover_arts/184397"
+    },
+    {
+      "annotated": true,
+      "api_path": "/albums/120991",
+      "id": 184399,
+      "image_url": "https://images.genius.com/1d8e05f2d8a7152522a195800df83080.752x752x1.png",
+      "thumbnail_image_url": "https://images.genius.com/1d8e05f2d8a7152522a195800df83080.300x300x1.png",
+      "url": "https://genius.com/album_cover_arts/184399"
+    },
+    {
+      "annotated": true,
+      "api_path": "/albums/120991",
+      "id": 184400,
+      "image_url": "https://images.genius.com/48e2e22ee7debda23d93017c76ee9f97.750x750x1.png",
+      "thumbnail_image_url": "https://images.genius.com/48e2e22ee7debda23d93017c76ee9f97.300x300x1.png",
+      "url": "https://genius.com/album_cover_arts/184400"
+    },
+    {
+      "annotated": true,
+      "api_path": "/albums/120991",
+      "id": 184401,
+      "image_url": "https://images.genius.com/c8fd122f791ffe507be3fef9260d4c1f.750x750x1.png",
+      "thumbnail_image_url": "https://images.genius.com/c8fd122f791ffe507be3fef9260d4c1f.300x300x1.png",
+      "url": "https://genius.com/album_cover_arts/184401"
+    },
+    {
+      "annotated": false,
+      "api_path": "/albums/120991",
+      "id": 184402,
+      "image_url": "https://images.genius.com/6d14012f1cf00363e526f32322f45d05.750x750x1.png",
+      "thumbnail_image_url": "https://images.genius.com/6d14012f1cf00363e526f32322f45d05.300x300x1.png",
+      "url": "https://genius.com/album_cover_arts/184402"
+    },
+    {
+      "annotated": true,
+      "api_path": "/albums/120991",
+      "id": 184403,
+      "image_url": "https://images.genius.com/edb0246176acbe9d5b6c5271a985636c.750x750x1.png",
+      "thumbnail_image_url": "https://images.genius.com/edb0246176acbe9d5b6c5271a985636c.300x300x1.png",
+      "url": "https://genius.com/album_cover_arts/184403"
+    },
+    {
+      "annotated": true,
+      "api_path": "/albums/120991",
+      "id": 184404,
+      "image_url": "https://images.genius.com/2473c65db0387daeaad12bcb2f454f37.750x750x1.png",
+      "thumbnail_image_url": "https://images.genius.com/2473c65db0387daeaad12bcb2f454f37.300x300x1.png",
+      "url": "https://genius.com/album_cover_arts/184404"
+    },
+    {
+      "annotated": true,
+      "api_path": "/albums/120991",
+      "id": 184405,
+      "image_url": "https://images.genius.com/2a3411f7fb8fc214df510b2d08c36fc9.1000x1000x1.png",
+      "thumbnail_image_url": "https://images.genius.com/2a3411f7fb8fc214df510b2d08c36fc9.300x300x1.png",
+      "url": "https://genius.com/album_cover_arts/184405"
+    },
+    {
+      "annotated": true,
+      "api_path": "/albums/120991",
+      "id": 184406,
+      "image_url": "https://images.genius.com/8c96f59a8f4b26756a1e4c017a722d88.1000x1000x1.png",
+      "thumbnail_image_url": "https://images.genius.com/8c96f59a8f4b26756a1e4c017a722d88.300x300x1.png",
+      "url": "https://genius.com/album_cover_arts/184406"
+    },
+    {
+      "annotated": true,
+      "api_path": "/albums/120991",
+      "id": 145426,
+      "image_url": "https://images.genius.com/9f7769f7c28fc3f81d29d5c73f1f1d0f.1000x1000x1.png",
+      "thumbnail_image_url": "https://images.genius.com/9f7769f7c28fc3f81d29d5c73f1f1d0f.300x300x1.png",
+      "url": "https://genius.com/album_cover_arts/145426"
+    },
+    {
+      "annotated": true,
+      "api_path": "/albums/120991",
+      "id": 707893,
+      "image_url": "https://images.genius.com/d63566e35fa8c2b5dd0d2b13502635f5.1000x1000x1.jpg",
+      "thumbnail_image_url": "https://images.genius.com/d63566e35fa8c2b5dd0d2b13502635f5.300x300x1.jpg",
+      "url": "https://genius.com/album_cover_arts/707893"
+    },
+    {
+      "annotated": false,
+      "api_path": "/albums/120991",
+      "id": 707894,
+      "image_url": "https://images.genius.com/4a7cacccbc5242ca60a531141e45448b.667x1000x1.jpg",
+      "thumbnail_image_url": "https://images.genius.com/4a7cacccbc5242ca60a531141e45448b.300x450x1.jpg",
+      "url": "https://genius.com/album_cover_arts/707894"
+    }
+  ],
+  "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1043822,
+    "annotator_login": "spfmelanin",
+    "api_path": "/referents/7589745",
+    "classification": "accepted",
+    "fragment": "To Pimp a Butterfly",
+    "id": 7589745,
+    "is_description": true,
+    "path": "/7589745/To-pimp-a-butterfly/To-pimp-a-butterfly",
+    "range": {
+      "content": "To Pimp a Butterfly"
+    },
+    "song_id": null,
+    "url": "https://genius.com/7589745/To-pimp-a-butterfly/To-pimp-a-butterfly",
+    "verified_annotator_ids": [],
+    "annotatable": {
+      "api_path": "/albums/120991",
+      "context": "Kendrick Lamar",
+      "id": 120991,
+      "image_url": "https://images.genius.com/6c4cde12a02ad49bebff62799680b04e.300x300x1.png",
+      "link_title": "To Pimp a Butterfly",
+      "title": "To Pimp a Butterfly",
+      "type": "Album",
+      "url": "https://genius.com/albums/Kendrick-lamar/To-pimp-a-butterfly"
+    },
+    "annotations": [
+      {
+        "api_path": "/annotations/7589745",
+        "body": {
+          "dom": {
+            "tag": "root",
+            "children": [
+              {
+                "tag": "p",
+                "children": [
+                  {
+                    "tag": "em",
+                    "children": [
+                      "To Pimp a Butterfly"
+                    ]
+                  },
+                  " is Kendrick Lamar’s second major label studio album, and third full-length project. It was released via Top Dawg Entertainment, Aftermath Entertainment, and Interscope Records. It followed his critically-acclaimed 2012 debut, ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/albums/Kendrick-lamar/Good-kid-m-a-a-d-city",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/albums/15946"
+                    },
+                    "children": [
+                      {
+                        "tag": "em",
+                        "children": [
+                          "good kid, m.A.A.d city"
+                        ]
+                      }
+                    ]
+                  },
+                  ". The album was very well-received upon release, eventually earning 11 Grammy nominations, and it has gone on to be hailed as one of the ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://www.metacritic.com/browse/albums/genre/metascore/rap",
+                      "rel": "noopener nofollow"
+                    },
+                    "children": [
+                      "greatest hip-hop albums of all time"
+                    ]
+                  },
+                  "."
+                ]
+              },
+              "",
+              {
+                "tag": "p",
+                "children": [
+                  "In contrast to Lamar’s previous projects, ",
+                  {
+                    "tag": "em",
+                    "children": [
+                      "TPAB"
+                    ]
+                  },
+                  " took more heavily from jazz, soul, and funk influences, with such contributors as ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/artists/Thundercat",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/artists/14481"
+                    },
+                    "children": [
+                      "Thundercat"
+                    ]
+                  },
+                  ", ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/artists/Terrace-martin",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/artists/13291"
+                    },
+                    "children": [
+                      "Terrace Martin"
+                    ]
+                  },
+                  ", ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/artists/Kamasi-washington",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/artists/500783"
+                    },
+                    "children": [
+                      "Kamasi Washington"
+                    ]
+                  },
+                  ", and ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/artists/Flying-lotus",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/artists/22931"
+                    },
+                    "children": [
+                      "Flying Lotus"
+                    ]
+                  },
+                  " providing instrumentation and production. Other noteworthy credits include vocals from ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/artists/Anna-wise",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/artists/2434"
+                    },
+                    "children": [
+                      "Anna Wise"
+                    ]
+                  },
+                  ", ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/artists/Bilal",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/artists/177"
+                    },
+                    "children": [
+                      "Bilal"
+                    ]
+                  },
+                  ", ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/artists/George-clinton",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/artists/351"
+                    },
+                    "children": [
+                      "George Clinton"
+                    ]
+                  },
+                  ", ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/artists/James-fauntleroy",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/artists/17649"
+                    },
+                    "children": [
+                      "James Fauntleroy"
+                    ]
+                  },
+                  ", ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/artists/Rapsody",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/artists/14148"
+                    },
+                    "children": [
+                      "Rapsody"
+                    ]
+                  },
+                  ", ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/artists/Ronald-isley",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/artists/2668"
+                    },
+                    "children": [
+                      "Ronald Isley"
+                    ]
+                  },
+                  " of the ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/artists/The-isley-brothers",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/artists/8400"
+                    },
+                    "children": [
+                      "The Isley Brothers"
+                    ]
+                  },
+                  ", ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/artists/Snoop-dogg",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/artists/46"
+                    },
+                    "children": [
+                      "Snoop Dogg"
+                    ]
+                  },
+                  ", and a posthumous appearance from ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/artists/2pac",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/artists/59"
+                    },
+                    "children": [
+                      "2Pac"
+                    ]
+                  },
+                  "."
+                ]
+              },
+              "",
+              {
+                "tag": "p",
+                "children": [
+                  "This album’s concept explores themes of self-love and hate, fame, depression, violence, race, and politics through a spoken-word poem that interweaves between songs, leading up to the climax. The poem is wrapped up on the final track, ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/Kendrick-lamar-mortal-man-lyrics",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/songs/721854"
+                    },
+                    "children": [
+                      "“Mortal Man,”"
+                    ]
+                  },
+                  " where it is revealed that Kendrick was reading the poem to 2Pac all along. In an ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "http://www.mtv.com/news/2120689/kendrick-lamar-tu-pimp-a-caterpillar-tupac/",
+                      "rel": "noopener nofollow"
+                    },
+                    "children": [
+                      "interview with MTV"
+                    ]
+                  },
+                  ", Kendrick explained that the working title for the album was ‘Tu Pimp a Caterpillar,’ which spells out ‘TuPAC’ when abbreviated. It was changed to ‘butterfly’ in order to symbolize Kendrick’s personal character growth and his overall resiliency following success within the music industry."
+                ]
+              },
+              "",
+              {
+                "tag": "p",
+                "children": [
+                  "The leading singles from this album were the studio version of ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/Kendrick-lamar-i-single-version-lyrics",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/songs/724687"
+                    },
+                    "children": [
+                      "“i”"
+                    ]
+                  },
+                  " and ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/Kendrick-lamar-the-blacker-the-berry-lyrics",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/songs/701372"
+                    },
+                    "children": [
+                      "“The Blacker the Berry.”"
+                    ]
+                  }
+                ]
+              },
+              "",
+              {
+                "tag": "p",
+                "children": [
+                  "The album was heavily inspired by Lamar’s trip to ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://www.grammy.com/grammys/news/pimp-butterfly-kendrick-lamar-shares-history",
+                      "rel": "noopener nofollow"
+                    },
+                    "children": [
+                      "South Africa in 2014"
+                    ]
+                  },
+                  ", where he visited historical sites such as ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://www.britannica.com/biography/Nelson-Mandela",
+                      "rel": "noopener nofollow"
+                    },
+                    "children": [
+                      "Nelson Mandela"
+                    ]
+                  },
+                  "’s jail cell, birthing recurring motifs like ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://www.britannica.com/topic/apartheid",
+                      "rel": "noopener nofollow"
+                    },
+                    "children": [
+                      "Apartheid"
+                    ]
+                  },
+                  ", distinctions between African and American culture, or institutionalization, among many others. Kendrick creates many allegorical comparisons between Compton and South Africa, especially on the song ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/Kendrick-lamar-momma-lyrics",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/songs/722283"
+                    },
+                    "children": [
+                      "“Momma.”"
+                    ]
+                  }
+                ]
+              },
+              "",
+              {
+                "tag": "p",
+                "children": [
+                  "All of Lamar’s efforts, touring, and accolades culminated in a powerful ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/Kendrick-lamar-grammy-2016-performance-lyrics",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/songs/2429021"
+                    },
+                    "children": [
+                      "2016 Grammy Awards performance"
+                    ]
+                  },
+                  ", featuring “The Blacker The Berry” and ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://genius.com/Kendrick-lamar-alright-lyrics",
+                      "rel": "noopener"
+                    },
+                    "data": {
+                      "api_path": "/songs/722278"
+                    },
+                    "children": [
+                      "“Alright,”"
+                    ]
+                  },
+                  " for which he famously received undue criticism ",
+                  {
+                    "tag": "a",
+                    "attributes": {
+                      "href": "https://www.billboard.com/articles/columns/the-juice/6613133/geraldo-rivera-kendrick-lamar-bet-awards-fox-news",
+                      "rel": "noopener nofollow"
+                    },
+                    "children": [
+                      "from FOX News"
+                    ]
+                  },
+                  "."
+                ]
+              }
+            ]
+          }
+        },
+        "comment_count": 1,
+        "community": true,
+        "custom_preview": null,
+        "has_voters": true,
+        "id": 7589745,
+        "pinned": false,
+        "share_url": "https://genius.com/7589745",
+        "source": null,
+        "state": "accepted",
+        "url": "https://genius.com/7589745/To-pimp-a-butterfly/To-pimp-a-butterfly",
+        "verified": false,
+        "votes_total": 489,
+        "current_user_metadata": {
+          "permissions": [
+            "vote",
+            "propose_edit_to",
+            "create_comment"
+          ],
+          "excluded_permissions": [
+            "edit",
+            "cosign",
+            "uncosign",
+            "destroy",
+            "accept",
+            "reject",
+            "see_unreviewed",
+            "clear_votes",
+            "pin_to_profile",
+            "unpin_from_profile",
+            "update_source",
+            "edit_custom_preview"
+          ],
+          "interactions": {
+            "cosign": false,
+            "pyong": false,
+            "vote": null
+          },
+          "iq_by_action": {
+            "accept": {
+              "primary": {
+                "multiplier": 1,
+                "base": 10,
+                "applicable": true
+              }
+            },
+            "reject": {
+              "primary": {
+                "multiplier": 1,
+                "base": 2,
+                "applicable": true
+              }
+            },
+            "delete": {
+              "primary": {
+                "multiplier": 1,
+                "base": 5,
+                "applicable": true
+              }
+            }
+          }
+        },
+        "authors": [
+          {
+            "attribution": 0.34911242603550297,
+            "pinned_role": null,
+            "user": {
+              "api_path": "/users/5067537",
+              "avatar": {
+                "tiny": {
+                  "url": "https://images.genius.com/avatars/tiny/fe51c7a514849b61961dcea78a0e8ca8",
+                  "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                  }
+                },
+                "thumb": {
+                  "url": "https://images.genius.com/avatars/thumb/fe51c7a514849b61961dcea78a0e8ca8",
+                  "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                  }
+                },
+                "small": {
+                  "url": "https://images.genius.com/avatars/small/fe51c7a514849b61961dcea78a0e8ca8",
+                  "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                  }
+                },
+                "medium": {
+                  "url": "https://images.genius.com/avatars/medium/fe51c7a514849b61961dcea78a0e8ca8",
+                  "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                  }
+                }
+              },
+              "header_image_url": "https://images.genius.com/664f701ebd9caf964f790c36b1a340f9.1000x913x1.jpg",
+              "human_readable_role_for_display": "Contributor",
+              "id": 5067537,
+              "iq": 22695,
+              "login": "MarcelBorg",
+              "name": "MarcelBorg",
+              "role_for_display": "contributor",
+              "url": "https://genius.com/MarcelBorg",
+              "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": [
+                  "follow"
+                ],
+                "interactions": {
+                  "following": false
+                }
+              }
+            }
+          },
+          {
+            "attribution": 0.20414201183431951,
+            "pinned_role": null,
+            "user": {
+              "api_path": "/users/1603328",
+              "avatar": {
+                "tiny": {
+                  "url": "https://images.genius.com/avatars/tiny/773f9640b0b2e0ad1c6f7fedffb70a1d",
+                  "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                  }
+                },
+                "thumb": {
+                  "url": "https://images.genius.com/avatars/thumb/773f9640b0b2e0ad1c6f7fedffb70a1d",
+                  "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                  }
+                },
+                "small": {
+                  "url": "https://images.genius.com/avatars/small/773f9640b0b2e0ad1c6f7fedffb70a1d",
+                  "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                  }
+                },
+                "medium": {
+                  "url": "https://images.genius.com/avatars/medium/773f9640b0b2e0ad1c6f7fedffb70a1d",
+                  "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                  }
+                }
+              },
+              "header_image_url": "https://images.genius.com/e372f40ee0a6d090ffd11b4c5518a5a9.1000x370x1.jpg",
+              "human_readable_role_for_display": "Moderator",
+              "id": 1603328,
+              "iq": 425413,
+              "login": "kingkillmonger",
+              "name": "ʞ|açe|wœ|k",
+              "role_for_display": "moderator",
+              "url": "https://genius.com/kingkillmonger",
+              "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": [
+                  "follow"
+                ],
+                "interactions": {
+                  "following": false
+                }
+              }
+            }
+          },
+          {
+            "attribution": 0.1390532544378698,
+            "pinned_role": null,
+            "user": {
+              "api_path": "/users/993805",
+              "avatar": {
+                "tiny": {
+                  "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ruar8gm48qe",
+                  "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                  }
+                },
+                "thumb": {
+                  "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ruar8gm48qe",
+                  "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                  }
+                },
+                "small": {
+                  "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ruar8gm48qe",
+                  "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                  }
+                },
+                "medium": {
+                  "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ruar8gm48qe",
+                  "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                  }
+                }
+              },
+              "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/73c9ellj2f7",
+              "human_readable_role_for_display": "Contributor",
+              "id": 993805,
+              "iq": 81706,
+              "login": "StayInTheHouse",
+              "name": "StayInTheHouse",
+              "role_for_display": "contributor",
+              "url": "https://genius.com/StayInTheHouse",
+              "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": [
+                  "follow"
+                ],
+                "interactions": {
+                  "following": false
+                }
+              }
+            }
+          },
+          {
+            "attribution": 0.13609467455621302,
+            "pinned_role": null,
+            "user": {
+              "api_path": "/users/5156306",
+              "avatar": {
+                "tiny": {
+                  "url": "https://images.genius.com/avatars/tiny/7d0ed1364071c1b904e115e63b721103",
+                  "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                  }
+                },
+                "thumb": {
+                  "url": "https://images.genius.com/avatars/thumb/7d0ed1364071c1b904e115e63b721103",
+                  "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                  }
+                },
+                "small": {
+                  "url": "https://images.genius.com/avatars/small/7d0ed1364071c1b904e115e63b721103",
+                  "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                  }
+                },
+                "medium": {
+                  "url": "https://images.genius.com/avatars/medium/7d0ed1364071c1b904e115e63b721103",
+                  "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                  }
+                }
+              },
+              "header_image_url": "https://images.genius.com/5d176b04f86dfbf09cc304063bd90ae5.1000x738x1.jpg",
+              "human_readable_role_for_display": "Editor",
+              "id": 5156306,
+              "iq": 37095,
+              "login": "Bismvth",
+              "name": "Bismvth",
+              "role_for_display": "editor",
+              "url": "https://genius.com/Bismvth",
+              "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": [
+                  "follow"
+                ],
+                "interactions": {
+                  "following": false
+                }
+              }
+            }
+          },
+          {
+            "attribution": 0.08579881656804733,
+            "pinned_role": null,
+            "user": {
+              "api_path": "/users/1043822",
+              "avatar": {
+                "tiny": {
+                  "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/22l8g0zb2aq",
+                  "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                  }
+                },
+                "thumb": {
+                  "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/22l8g0zb2aq",
+                  "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                  }
+                },
+                "small": {
+                  "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/22l8g0zb2aq",
+                  "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                  }
+                },
+                "medium": {
+                  "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/22l8g0zb2aq",
+                  "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                  }
+                }
+              },
+              "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/l6k10bmpx2e",
+              "human_readable_role_for_display": "Editor",
+              "id": 1043822,
+              "iq": 51630,
+              "login": "spfmelanin",
+              "name": "spfmelanin",
+              "role_for_display": "editor",
+              "url": "https://genius.com/spfmelanin",
+              "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": [
+                  "follow"
+                ],
+                "interactions": {
+                  "following": false
+                }
+              }
+            }
+          },
+          {
+            "attribution": 0.04142011834319526,
+            "pinned_role": null,
+            "user": {
+              "api_path": "/users/705048",
+              "avatar": {
+                "tiny": {
+                  "url": "https://images.rapgenius.com/avatars/tiny/4038a284fcc55d2d164ffcd39e30df0d",
+                  "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                  }
+                },
+                "thumb": {
+                  "url": "https://images.rapgenius.com/avatars/thumb/4038a284fcc55d2d164ffcd39e30df0d",
+                  "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                  }
+                },
+                "small": {
+                  "url": "https://images.rapgenius.com/avatars/small/4038a284fcc55d2d164ffcd39e30df0d",
+                  "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                  }
+                },
+                "medium": {
+                  "url": "https://images.rapgenius.com/avatars/medium/4038a284fcc55d2d164ffcd39e30df0d",
+                  "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                  }
+                }
+              },
+              "header_image_url": "https://images.rapgenius.com/avatars/medium/4038a284fcc55d2d164ffcd39e30df0d",
+              "human_readable_role_for_display": "Editor",
+              "id": 705048,
+              "iq": 73159,
+              "login": "Metadata",
+              "name": "Mehta Data",
+              "role_for_display": "editor",
+              "url": "https://genius.com/Metadata",
+              "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": [
+                  "follow"
+                ],
+                "interactions": {
+                  "following": false
+                }
+              }
+            }
+          },
+          {
+            "attribution": 0.014792899408284023,
+            "pinned_role": null,
+            "user": {
+              "api_path": "/users/88410",
+              "avatar": {
+                "tiny": {
+                  "url": "https://images.genius.com/avatars/tiny/5a231006aadb36de2d1ecf762d688f2b",
+                  "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                  }
+                },
+                "thumb": {
+                  "url": "https://images.genius.com/avatars/thumb/5a231006aadb36de2d1ecf762d688f2b",
+                  "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                  }
+                },
+                "small": {
+                  "url": "https://images.genius.com/avatars/small/5a231006aadb36de2d1ecf762d688f2b",
+                  "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                  }
+                },
+                "medium": {
+                  "url": "https://images.genius.com/avatars/medium/5a231006aadb36de2d1ecf762d688f2b",
+                  "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                  }
+                }
+              },
+              "header_image_url": "https://images.genius.com/39f3c6513388b3b678a5b57d91938dc7.300x143x35.gif",
+              "human_readable_role_for_display": "Moderator",
+              "id": 88410,
+              "iq": 83761,
+              "login": "treflip",
+              "name": "Sam aka treflip",
+              "role_for_display": "moderator",
+              "url": "https://genius.com/treflip",
+              "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": [
+                  "follow"
+                ],
+                "interactions": {
+                  "following": false
+                }
+              }
+            }
+          },
+          {
+            "attribution": 0.011834319526627219,
+            "pinned_role": null,
+            "user": {
+              "api_path": "/users/599242",
+              "avatar": {
+                "tiny": {
+                  "url": "https://images.genius.com/avatars/tiny/f605fa4697d1696f2a0c1401540c0849",
+                  "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                  }
+                },
+                "thumb": {
+                  "url": "https://images.genius.com/avatars/thumb/f605fa4697d1696f2a0c1401540c0849",
+                  "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                  }
+                },
+                "small": {
+                  "url": "https://images.genius.com/avatars/small/f605fa4697d1696f2a0c1401540c0849",
+                  "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                  }
+                },
+                "medium": {
+                  "url": "https://images.genius.com/avatars/medium/f605fa4697d1696f2a0c1401540c0849",
+                  "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                  }
+                }
+              },
+              "header_image_url": "https://images.genius.com/avatars/medium/f605fa4697d1696f2a0c1401540c0849",
+              "human_readable_role_for_display": "Contributor",
+              "id": 599242,
+              "iq": 100785,
+              "login": "ReverseGiraffe",
+              "name": "ReverseGiraffe",
+              "role_for_display": "contributor",
+              "url": "https://genius.com/ReverseGiraffe",
+              "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": [
+                  "follow"
+                ],
+                "interactions": {
+                  "following": false
+                }
+              }
+            }
+          },
+          {
+            "attribution": 0.005917159763313609,
+            "pinned_role": null,
+            "user": {
+              "api_path": "/users/1837201",
+              "avatar": {
+                "tiny": {
+                  "url": "https://images.genius.com/avatars/tiny/5aaca3dada7deba08627e6f87d6c683c",
+                  "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                  }
+                },
+                "thumb": {
+                  "url": "https://images.genius.com/avatars/thumb/5aaca3dada7deba08627e6f87d6c683c",
+                  "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                  }
+                },
+                "small": {
+                  "url": "https://images.genius.com/avatars/small/5aaca3dada7deba08627e6f87d6c683c",
+                  "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                  }
+                },
+                "medium": {
+                  "url": "https://images.genius.com/avatars/medium/5aaca3dada7deba08627e6f87d6c683c",
+                  "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                  }
+                }
+              },
+              "header_image_url": "https://images.genius.com/6523700df9e6dfe25c1d09cb9efe8788.600x600x25.gif",
+              "human_readable_role_for_display": "Moderator",
+              "id": 1837201,
+              "iq": 1690999,
+              "login": "Qatarsi",
+              "name": "Qatarsi",
+              "role_for_display": "moderator",
+              "url": "https://genius.com/Qatarsi",
+              "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": [
+                  "follow"
+                ],
+                "interactions": {
+                  "following": false
+                }
+              }
+            }
+          },
+          {
+            "attribution": 0.005917159763313609,
+            "pinned_role": null,
+            "user": {
+              "api_path": "/users/5738847",
+              "avatar": {
+                "tiny": {
+                  "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2dc7w5ftlaa",
+                  "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                  }
+                },
+                "thumb": {
+                  "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2dc7w5ftlaa",
+                  "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                  }
+                },
+                "small": {
+                  "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2dc7w5ftlaa",
+                  "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                  }
+                },
+                "medium": {
+                  "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2dc7w5ftlaa",
+                  "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                  }
+                }
+              },
+              "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/m4p4ixbkp8r",
+              "human_readable_role_for_display": "Editor",
+              "id": 5738847,
+              "iq": 26032,
+              "login": "GrandmasterFleshlight",
+              "name": "GrandmasterFleshlight",
+              "role_for_display": "editor",
+              "url": "https://genius.com/GrandmasterFleshlight",
+              "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": [
+                  "follow"
+                ],
+                "interactions": {
+                  "following": false
+                }
+              }
+            }
+          },
+          {
+            "attribution": 0.0029585798816568047,
+            "pinned_role": null,
+            "user": {
+              "api_path": "/users/22533",
+              "avatar": {
+                "tiny": {
+                  "url": "https://images.genius.com/avatars/tiny/68e70faf1e0d7babedecb87d8a3c194a",
+                  "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                  }
+                },
+                "thumb": {
+                  "url": "https://images.genius.com/avatars/thumb/68e70faf1e0d7babedecb87d8a3c194a",
+                  "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                  }
+                },
+                "small": {
+                  "url": "https://images.genius.com/avatars/small/68e70faf1e0d7babedecb87d8a3c194a",
+                  "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                  }
+                },
+                "medium": {
+                  "url": "https://images.genius.com/avatars/medium/68e70faf1e0d7babedecb87d8a3c194a",
+                  "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                  }
+                }
+              },
+              "header_image_url": "https://images.genius.com/b1b1ed204f8d75b0d91663c10dedebfd.225x225x1.jpg",
+              "human_readable_role_for_display": "Moderator",
+              "id": 22533,
+              "iq": 1009296,
+              "login": "ScopeY",
+              "name": "ScopeY",
+              "role_for_display": "moderator",
+              "url": "https://genius.com/ScopeY",
+              "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": [
+                  "follow"
+                ],
+                "interactions": {
+                  "following": false
+                }
+              }
+            }
+          },
+          {
+            "attribution": 0.0029585798816568047,
+            "pinned_role": null,
+            "user": {
+              "api_path": "/users/5059758",
+              "avatar": {
+                "tiny": {
+                  "url": "https://images.genius.com/avatars/tiny/beecbf08b6b16743967b3c24de51fd74",
+                  "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                  }
+                },
+                "thumb": {
+                  "url": "https://images.genius.com/avatars/thumb/beecbf08b6b16743967b3c24de51fd74",
+                  "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                  }
+                },
+                "small": {
+                  "url": "https://images.genius.com/avatars/small/beecbf08b6b16743967b3c24de51fd74",
+                  "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                  }
+                },
+                "medium": {
+                  "url": "https://images.genius.com/avatars/medium/beecbf08b6b16743967b3c24de51fd74",
+                  "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                  }
+                }
+              },
+              "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0qlx43lzqec",
+              "human_readable_role_for_display": "Contributor",
+              "id": 5059758,
+              "iq": 8083,
+              "login": "MoneloMatrix",
+              "name": "MoneloMatrix",
+              "role_for_display": "contributor",
+              "url": "https://genius.com/MoneloMatrix",
+              "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": [
+                  "follow"
+                ],
+                "interactions": {
+                  "following": false
+                }
+              }
+            }
+          }
+        ],
+        "cosigned_by": [],
+        "rejection_comment": null,
+        "verified_by": null
+      }
+    ]
+  },
+  "performance_groups": [
+    {
+      "label": "Copyright ©",
+      "artists": [
+        {
+          "api_path": "/artists/143490",
+          "header_image_url": "https://images.genius.com/20ee0dc07918a750d532b2316361d3a2.1000x333x1.jpg",
+          "id": 143490,
+          "image_url": "https://images.genius.com/f28d415a7f5f966f5814e7c07cf8dc23.271x271x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Interscope Records",
+          "url": "https://genius.com/artists/Interscope-records",
+          "iq": 175
+        },
+        {
+          "api_path": "/artists/1136259",
+          "header_image_url": "https://images.genius.com/0cdf9c00e6a53abaf3ecffbf77c4e04e.1000x500x1.jpg",
+          "id": 1136259,
+          "image_url": "https://images.genius.com/ce0ff7521d657a567e4d76a5bb6f4508.304x304x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Aftermath Entertainment",
+          "url": "https://genius.com/artists/Aftermath-entertainment"
+        }
+      ]
+    },
+    {
+      "label": "Phonographic Copyright ℗",
+      "artists": [
+        {
+          "api_path": "/artists/143490",
+          "header_image_url": "https://images.genius.com/20ee0dc07918a750d532b2316361d3a2.1000x333x1.jpg",
+          "id": 143490,
+          "image_url": "https://images.genius.com/f28d415a7f5f966f5814e7c07cf8dc23.271x271x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Interscope Records",
+          "url": "https://genius.com/artists/Interscope-records",
+          "iq": 175
+        },
+        {
+          "api_path": "/artists/1136259",
+          "header_image_url": "https://images.genius.com/0cdf9c00e6a53abaf3ecffbf77c4e04e.1000x500x1.jpg",
+          "id": 1136259,
+          "image_url": "https://images.genius.com/ce0ff7521d657a567e4d76a5bb6f4508.304x304x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Aftermath Entertainment",
+          "url": "https://genius.com/artists/Aftermath-entertainment"
+        }
+      ]
+    },
+    {
+      "label": "Mixing Engineer",
+      "artists": [
+        {
+          "api_path": "/artists/640014",
+          "header_image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+          "id": 640014,
+          "image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Mixed by Ali",
+          "url": "https://genius.com/artists/Mixed-by-ali"
+        }
+      ]
+    },
+    {
+      "label": "Label",
+      "artists": [
+        {
+          "api_path": "/artists/1108010",
+          "header_image_url": "https://images.genius.com/b6d0cd73308dc9c8c514b5c11081f1a5.500x333x1.jpg",
+          "id": 1108010,
+          "image_url": "https://images.genius.com/8d7bc7b0d6188a564b2b0cc553fbe199.899x899x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Top Dawg Entertainment",
+          "url": "https://genius.com/artists/Top-dawg-entertainment"
+        },
+        {
+          "api_path": "/artists/1136259",
+          "header_image_url": "https://images.genius.com/0cdf9c00e6a53abaf3ecffbf77c4e04e.1000x500x1.jpg",
+          "id": 1136259,
+          "image_url": "https://images.genius.com/ce0ff7521d657a567e4d76a5bb6f4508.304x304x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Aftermath Entertainment",
+          "url": "https://genius.com/artists/Aftermath-entertainment"
+        },
+        {
+          "api_path": "/artists/143490",
+          "header_image_url": "https://images.genius.com/20ee0dc07918a750d532b2316361d3a2.1000x333x1.jpg",
+          "id": 143490,
+          "image_url": "https://images.genius.com/f28d415a7f5f966f5814e7c07cf8dc23.271x271x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Interscope Records",
+          "url": "https://genius.com/artists/Interscope-records",
+          "iq": 175
+        }
+      ]
+    },
+    {
+      "label": "Assistant mixing",
+      "artists": [
+        {
+          "api_path": "/artists/643428",
+          "header_image_url": "https://images.genius.com/8201b903494e294107426090a1f176d5.400x400x1.jpg",
+          "id": 643428,
+          "image_url": "https://images.genius.com/8201b903494e294107426090a1f176d5.400x400x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Matt Schaeffer",
+          "url": "https://genius.com/artists/Matt-schaeffer"
+        },
+        {
+          "api_path": "/artists/642699",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 642699,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "The White Black Man",
+          "url": "https://genius.com/artists/The-white-black-man"
+        }
+      ]
+    },
+    {
+      "label": "Mastering Engineer",
+      "artists": [
+        {
+          "api_path": "/artists/647414",
+          "header_image_url": "https://images.genius.com/f7428a1eab90e679e8af29668a3e43ea.450x309x1.jpg",
+          "id": 647414,
+          "image_url": "https://images.genius.com/0ec0a44b755cb745add8e3b72754a630.400x400x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Mike Bozzi",
+          "url": "https://genius.com/artists/Mike-bozzi"
+        }
+      ]
+    },
+    {
+      "label": "Recording Location",
+      "artists": [
+        {
+          "api_path": "/artists/1030588",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1030588,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "No Excuses Studios",
+          "url": "https://genius.com/artists/No-excuses-studios"
+        }
+      ]
+    },
+    {
+      "label": "Recording Engineer",
+      "artists": [
+        {
+          "api_path": "/artists/640014",
+          "header_image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+          "id": 640014,
+          "image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Mixed by Ali",
+          "url": "https://genius.com/artists/Mixed-by-ali"
+        }
+      ]
+    },
+    {
+      "label": "Mix Location",
+      "artists": [
+        {
+          "api_path": "/artists/1030588",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1030588,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "No Excuses Studios",
+          "url": "https://genius.com/artists/No-excuses-studios"
+        }
+      ]
+    },
+    {
+      "label": "String Recording Engineer",
+      "artists": [
+        {
+          "api_path": "/artists/675893",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 675893,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Thomas Cullison",
+          "url": "https://genius.com/artists/Thomas-cullison"
+        },
+        {
+          "api_path": "/artists/665675",
+          "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+          "id": 665675,
+          "image_url": "https://images.genius.com/2e94bedf635ab5f189f992589b59952d.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "David Kim",
+          "url": "https://genius.com/artists/David-kim",
+          "iq": 100
+        }
+      ]
+    },
+    {
+      "label": "String Arrangment",
+      "artists": [
+        {
+          "api_path": "/artists/13291",
+          "header_image_url": "https://images.genius.com/dc8bfda4018564fb61dc175f8e8f38d9.900x506x1.jpg",
+          "id": 13291,
+          "image_url": "https://images.genius.com/2747d1dbded3ab46deeda76498bdcf2c.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Terrace Martin",
+          "url": "https://genius.com/artists/Terrace-martin",
+          "iq": 194
+        },
+        {
+          "api_path": "/artists/27472",
+          "header_image_url": "https://images.genius.com/047e8ba8b1b637837167155280d744f4.636x421x1.jpg",
+          "id": 27472,
+          "image_url": "https://images.genius.com/77819bc25af866f53a92ebca0ee4a944.289x289x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Sounwave",
+          "url": "https://genius.com/artists/Sounwave",
+          "iq": 530
+        },
+        {
+          "api_path": "/artists/500783",
+          "header_image_url": "https://images.genius.com/36b7710d296c50f17927f2bd761e0dd8.1000x562x1.jpg",
+          "id": 500783,
+          "image_url": "https://images.genius.com/2d1cf0610b22c6e3e119b1422b1b5d56.731x731x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kamasi Washington",
+          "url": "https://genius.com/artists/Kamasi-washington"
+        }
+      ]
+    },
+    {
+      "label": "Additional Photography",
+      "artists": [
+        {
+          "api_path": "/artists/1221695",
+          "header_image_url": "https://images.genius.com/f25f860ffed038023a0da41278bb41f9.418x418x1.jpg",
+          "id": 1221695,
+          "image_url": "https://images.genius.com/f25f860ffed038023a0da41278bb41f9.418x418x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ret One",
+          "url": "https://genius.com/artists/Ret-one"
+        },
+        {
+          "api_path": "/artists/27862",
+          "header_image_url": "https://images.genius.com/47387006eccdc6a6463f9d47e53dced8.1000x663x1.jpg",
+          "id": 27862,
+          "image_url": "https://images.genius.com/fedac43f4386e2f7d9415b3b9a222f6b.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Dave Free",
+          "url": "https://genius.com/artists/Dave-free"
+        }
+      ]
+    },
+    {
+      "label": "White House Photography",
+      "artists": [
+        {
+          "api_path": "/artists/1221750",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1221750,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Diego Cambiaso",
+          "url": "https://genius.com/artists/Diego-cambiaso"
+        }
+      ]
+    },
+    {
+      "label": "Cover Photography",
+      "artists": [
+        {
+          "api_path": "/artists/1221749",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1221749,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Denis Rouvre",
+          "url": "https://genius.com/artists/Denis-rouvre"
+        }
+      ]
+    },
+    {
+      "label": "Art Direction",
+      "artists": [
+        {
+          "api_path": "/artists/976329",
+          "header_image_url": "https://images.genius.com/37b6fd1976b57e10358a61b39d0b1b6d.371x371x1.jpg",
+          "id": 976329,
+          "image_url": "https://images.genius.com/37b6fd1976b57e10358a61b39d0b1b6d.371x371x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Vlad Sepetov",
+          "url": "https://genius.com/artists/Vlad-sepetov"
+        },
+        {
+          "api_path": "/artists/27862",
+          "header_image_url": "https://images.genius.com/47387006eccdc6a6463f9d47e53dced8.1000x663x1.jpg",
+          "id": 27862,
+          "image_url": "https://images.genius.com/fedac43f4386e2f7d9415b3b9a222f6b.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Dave Free",
+          "url": "https://genius.com/artists/Dave-free"
+        },
+        {
+          "api_path": "/artists/1421",
+          "header_image_url": "https://images.genius.com/3514a6d32afe88c48f22263e303f55d0.1000x601x1.jpg",
+          "id": 1421,
+          "image_url": "https://images.genius.com/d6d96651b423fa5a83c38ee2a4c6c939.1000x1000x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Kendrick Lamar",
+          "url": "https://genius.com/artists/Kendrick-lamar",
+          "iq": 53571
+        }
+      ]
+    },
+    {
+      "label": "Aftermath General Manager",
+      "artists": [
+        {
+          "api_path": "/artists/1221699",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1221699,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ashley Palmer",
+          "url": "https://genius.com/artists/Ashley-palmer"
+        }
+      ]
+    },
+    {
+      "label": "Interscope Legal",
+      "artists": [
+        {
+          "api_path": "/artists/1106993",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1106993,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Todd Douglas",
+          "url": "https://genius.com/artists/Todd-douglas"
+        },
+        {
+          "api_path": "/artists/1221748",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1221748,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Jason Kawejsza",
+          "url": "https://genius.com/artists/Jason-kawejsza"
+        }
+      ]
+    },
+    {
+      "label": "Interscope Sales",
+      "artists": [
+        {
+          "api_path": "/artists/1106991",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1106991,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Gary Kelly",
+          "url": "https://genius.com/artists/Gary-kelly"
+        }
+      ]
+    },
+    {
+      "label": "Interscope Publicity",
+      "artists": [
+        {
+          "api_path": "/artists/1106994",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1106994,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ray Alba",
+          "url": "https://genius.com/artists/Ray-alba"
+        }
+      ]
+    },
+    {
+      "label": "Interscope Marketing",
+      "artists": [
+        {
+          "api_path": "/artists/1106985",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1106985,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Archie Davis",
+          "url": "https://genius.com/artists/Archie-davis"
+        }
+      ]
+    },
+    {
+      "label": "Interscope A&R Administrator",
+      "artists": [
+        {
+          "api_path": "/artists/1106986",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1106986,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Alicia Graham",
+          "url": "https://genius.com/artists/Alicia-graham"
+        }
+      ]
+    },
+    {
+      "label": "Interscope A&R Coordinator",
+      "artists": [
+        {
+          "api_path": "/artists/1118297",
+          "header_image_url": "https://images.genius.com/bb6e5869915e4e9dc2f0338e74f185bb.640x640x1.jpg",
+          "id": 1118297,
+          "image_url": "https://images.genius.com/bb6e5869915e4e9dc2f0338e74f185bb.640x640x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Chelsea Blythe",
+          "url": "https://genius.com/artists/Chelsea-blythe"
+        }
+      ]
+    },
+    {
+      "label": "Interscope (Top's Homies)",
+      "artists": [
+        {
+          "api_path": "/artists/645422",
+          "header_image_url": "https://images.genius.com/85ad424feb54193e60ae4340dbabc509.683x683x1.jpg",
+          "id": 645422,
+          "image_url": "https://images.genius.com/85ad424feb54193e60ae4340dbabc509.683x683x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Steve Berman",
+          "url": "https://genius.com/artists/Steve-berman"
+        },
+        {
+          "api_path": "/artists/986539",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 986539,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "John Janick",
+          "url": "https://genius.com/artists/John-janick"
+        }
+      ]
+    },
+    {
+      "label": "TDE Legal",
+      "artists": [
+        {
+          "api_path": "/artists/1221698",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1221698,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Joshua P. Binder, Esq.",
+          "url": "https://genius.com/artists/Joshua-p-binder-esq"
+        }
+      ]
+    },
+    {
+      "label": "TDE Digital",
+      "artists": [
+        {
+          "api_path": "/artists/1221747",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1221747,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ashley Outrageous",
+          "url": "https://genius.com/artists/Ashley-outrageous"
+        }
+      ]
+    },
+    {
+      "label": "TDE Marketing",
+      "artists": [
+        {
+          "api_path": "/artists/1221746",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1221746,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "TDE Marketing",
+          "url": "https://genius.com/artists/Tde-marketing"
+        }
+      ]
+    },
+    {
+      "label": "TDE Management",
+      "artists": [
+        {
+          "api_path": "/artists/2538",
+          "header_image_url": "https://s3.amazonaws.com/rapgenius/1342746457_image.jpg",
+          "id": 2538,
+          "image_url": "https://s3.amazonaws.com/rapgenius/1342746457_image.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Punch",
+          "url": "https://genius.com/artists/Punch",
+          "iq": 6949
+        },
+        {
+          "api_path": "/artists/1175636",
+          "header_image_url": "https://images.genius.com/652e231aa70739eb867e3b80492ca5b2.512x512x1.jpg",
+          "id": 1175636,
+          "image_url": "https://images.genius.com/652e231aa70739eb867e3b80492ca5b2.512x512x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Moosa",
+          "url": "https://genius.com/artists/Moosa",
+          "iq": 178
+        },
+        {
+          "api_path": "/artists/1221695",
+          "header_image_url": "https://images.genius.com/f25f860ffed038023a0da41278bb41f9.418x418x1.jpg",
+          "id": 1221695,
+          "image_url": "https://images.genius.com/f25f860ffed038023a0da41278bb41f9.418x418x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ret One",
+          "url": "https://genius.com/artists/Ret-one"
+        },
+        {
+          "api_path": "/artists/27862",
+          "header_image_url": "https://images.genius.com/47387006eccdc6a6463f9d47e53dced8.1000x663x1.jpg",
+          "id": 27862,
+          "image_url": "https://images.genius.com/fedac43f4386e2f7d9415b3b9a222f6b.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Dave Free",
+          "url": "https://genius.com/artists/Dave-free"
+        }
+      ]
+    },
+    {
+      "label": "TDE A&R",
+      "artists": [
+        {
+          "api_path": "/artists/27472",
+          "header_image_url": "https://images.genius.com/047e8ba8b1b637837167155280d744f4.636x421x1.jpg",
+          "id": 27472,
+          "image_url": "https://images.genius.com/77819bc25af866f53a92ebca0ee4a944.289x289x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Sounwave",
+          "url": "https://genius.com/artists/Sounwave",
+          "iq": 530
+        },
+        {
+          "api_path": "/artists/1421",
+          "header_image_url": "https://images.genius.com/3514a6d32afe88c48f22263e303f55d0.1000x601x1.jpg",
+          "id": 1421,
+          "image_url": "https://images.genius.com/d6d96651b423fa5a83c38ee2a4c6c939.1000x1000x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Kendrick Lamar",
+          "url": "https://genius.com/artists/Kendrick-lamar",
+          "iq": 53571
+        }
+      ]
+    },
+    {
+      "label": "Associate Producer",
+      "artists": [
+        {
+          "api_path": "/artists/27862",
+          "header_image_url": "https://images.genius.com/47387006eccdc6a6463f9d47e53dced8.1000x663x1.jpg",
+          "id": 27862,
+          "image_url": "https://images.genius.com/fedac43f4386e2f7d9415b3b9a222f6b.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Dave Free",
+          "url": "https://genius.com/artists/Dave-free"
+        }
+      ]
+    },
+    {
+      "label": "Executive Producer",
+      "artists": [
+        {
+          "api_path": "/artists/123",
+          "header_image_url": "https://images.genius.com/8f996b7d602ce42fea2b8f62d45442f2.660x371x1.png",
+          "id": 123,
+          "image_url": "https://images.genius.com/3c8cbbf8a3bd237a684c0bd81115ff0b.576x576x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Dr. Dre",
+          "url": "https://genius.com/artists/Dr-dre"
+        },
+        {
+          "api_path": "/artists/93851",
+          "header_image_url": "https://images.genius.com/cd311e78421d70f11ffd3ace217e1aef.608x342x1.png",
+          "id": 93851,
+          "image_url": "https://images.genius.com/cd311e78421d70f11ffd3ace217e1aef.608x342x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Top Dawg",
+          "url": "https://genius.com/artists/Top-dawg"
+        }
+      ]
+    }
+  ],
+  "song_performances": [
+    {
+      "label": "Featuring",
+      "artists": [
+        {
+          "api_path": "/artists/2434",
+          "header_image_url": "https://images.genius.com/52d3ef96434c89335189e622e439c0d2.667x1000x1.jpg",
+          "id": 2434,
+          "image_url": "https://images.genius.com/d3c260e1193228d04e1ef46eedee2a49.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Anna Wise",
+          "url": "https://genius.com/artists/Anna-wise",
+          "iq": 218
+        },
+        {
+          "api_path": "/artists/177",
+          "header_image_url": "https://s3.amazonaws.com/rapgenius/bilal-artist.jpg",
+          "id": 177,
+          "image_url": "https://s3.amazonaws.com/rapgenius/bilal-artist.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Bilal",
+          "url": "https://genius.com/artists/Bilal",
+          "iq": 1559
+        },
+        {
+          "api_path": "/artists/351",
+          "header_image_url": "https://images.genius.com/99e393f2cc0ffda2b6515dd4725eb3d2.800x800x1.jpg",
+          "id": 351,
+          "image_url": "https://images.genius.com/99e393f2cc0ffda2b6515dd4725eb3d2.800x800x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "George Clinton",
+          "url": "https://genius.com/artists/George-clinton",
+          "iq": 1099
+        },
+        {
+          "api_path": "/artists/17649",
+          "header_image_url": "https://images.genius.com/a607aaea85cce57e14e083db055d99a0.924x235x1.jpg",
+          "id": 17649,
+          "image_url": "https://images.genius.com/642afd8c972482b019f7f8a5efd26aad.500x391x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "James Fauntleroy",
+          "url": "https://genius.com/artists/James-fauntleroy",
+          "iq": 2642
+        },
+        {
+          "api_path": "/artists/14148",
+          "header_image_url": "https://images.genius.com/03a9d44bae1832c3786f77d173203ad2.1000x751x1.jpg",
+          "id": 14148,
+          "image_url": "https://images.genius.com/b6cda5ea09f7b5a9837c223f929499ef.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Rapsody",
+          "url": "https://genius.com/artists/Rapsody",
+          "iq": 9327
+        },
+        {
+          "api_path": "/artists/2668",
+          "header_image_url": "https://images.genius.com/a30804fadbfb3170f3a28b864e10c93d.1000x1000x1.jpg",
+          "id": 2668,
+          "image_url": "https://images.genius.com/a30804fadbfb3170f3a28b864e10c93d.1000x1000x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Ronald Isley",
+          "url": "https://genius.com/artists/Ronald-isley",
+          "iq": 838
+        },
+        {
+          "api_path": "/artists/46",
+          "header_image_url": "https://images.genius.com/4a8a11f406cfaa80085daaee24b78863.1000x563x1.jpg",
+          "id": 46,
+          "image_url": "https://images.genius.com/91bd22f5e53a3ea3cb1436de8f4a3722.1000x1000x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Snoop Dogg",
+          "url": "https://genius.com/artists/Snoop-dogg",
+          "iq": 5115
+        },
+        {
+          "api_path": "/artists/14481",
+          "header_image_url": "https://images.genius.com/5285f4578d1249527fe236e0ec67bcc0.801x1000x1.jpg",
+          "id": 14481,
+          "image_url": "https://images.genius.com/3bf2a60f117392cb50ad54e972044be3.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Thundercat",
+          "url": "https://genius.com/artists/Thundercat"
+        }
+      ]
+    },
+    {
+      "label": "Producers",
+      "artists": [
+        {
+          "api_path": "/artists/48098",
+          "header_image_url": "https://images.genius.com/d0293304508f04a8d892622a80d9216a.645x363x1.jpg",
+          "id": 48098,
+          "image_url": "https://images.genius.com/3a4543d3a6d1110b9bf5096e5a7ca59b.553x553x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "The Antydote",
+          "url": "https://genius.com/artists/The-antydote"
+        },
+        {
+          "api_path": "/artists/662",
+          "header_image_url": "https://images.genius.com/98828a1f27577b0c693b7c410a128834.1000x563x1.png",
+          "id": 662,
+          "image_url": "https://images.genius.com/5ea6a81be7094d2468a159e10810a9a6.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Boi-1da",
+          "url": "https://genius.com/artists/Boi-1da"
+        },
+        {
+          "api_path": "/artists/38455",
+          "header_image_url": "https://images.genius.com/c1c290bb950af55ddab4d4dee73908a0.933x622x1.jpg",
+          "id": 38455,
+          "image_url": "https://images.genius.com/c1c290bb950af55ddab4d4dee73908a0.933x622x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Flippa",
+          "url": "https://genius.com/artists/Flippa"
+        },
+        {
+          "api_path": "/artists/22931",
+          "header_image_url": "https://images.genius.com/6f12fc243960d2e54de6f0b8e5bdb0b3.1000x750x1.jpg",
+          "id": 22931,
+          "image_url": "https://images.genius.com/91cb174969e238bc4ececd376cdb7ed4.787x787x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Flying Lotus",
+          "url": "https://genius.com/artists/Flying-lotus"
+        },
+        {
+          "api_path": "/artists/27447",
+          "header_image_url": "https://s3.amazonaws.com/rapgenius/ken-lewis-3691.jpg",
+          "id": 27447,
+          "image_url": "https://s3.amazonaws.com/rapgenius/ken-lewis-3691.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ken Lewis",
+          "url": "https://genius.com/artists/Ken-lewis"
+        },
+        {
+          "api_path": "/artists/30574",
+          "header_image_url": "https://images.genius.com/c53e783f99f8f1c83dce431fe69a1931.715x398x1.jpg",
+          "id": 30574,
+          "image_url": "https://images.genius.com/9f9cf53a358bed3823b2beea456cd91d.731x731x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Knxwledge",
+          "url": "https://genius.com/artists/Knxwledge"
+        },
+        {
+          "api_path": "/artists/29138",
+          "header_image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+          "id": 29138,
+          "image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "KOZ",
+          "url": "https://genius.com/artists/Koz"
+        },
+        {
+          "api_path": "/artists/269078",
+          "header_image_url": "https://images.genius.com/7be1ed590cab539031853a322bd9eca4.478x598x1.png",
+          "id": 269078,
+          "image_url": "https://images.genius.com/7be1ed590cab539031853a322bd9eca4.478x598x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "LoveDragon",
+          "url": "https://genius.com/artists/Lovedragon"
+        },
+        {
+          "api_path": "/artists/110",
+          "header_image_url": "https://images.genius.com/6bb3ce5bd62c7acfc3a66798c4bbeb26.640x427x1.jpg",
+          "id": 110,
+          "image_url": "https://images.genius.com/aa964e94a21e7b893801ed3a2bd389b8.1000x1000x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Pharrell Williams",
+          "url": "https://genius.com/artists/Pharrell-williams",
+          "iq": 692
+        },
+        {
+          "api_path": "/artists/27473",
+          "header_image_url": "https://images.genius.com/eb695f1719c7c4a88d6335270e690784.800x800x1.jpg",
+          "id": 27473,
+          "image_url": "https://images.genius.com/eb695f1719c7c4a88d6335270e690784.800x800x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Rahki",
+          "url": "https://genius.com/artists/Rahki",
+          "iq": 100
+        },
+        {
+          "api_path": "/artists/40393",
+          "header_image_url": "https://images.genius.com/be6a214f2d9a33a92259fb947660985d.1000x606x1.jpg",
+          "id": 40393,
+          "image_url": "https://images.genius.com/be6a214f2d9a33a92259fb947660985d.1000x606x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Rance",
+          "url": "https://genius.com/artists/Rance"
+        },
+        {
+          "api_path": "/artists/27472",
+          "header_image_url": "https://images.genius.com/047e8ba8b1b637837167155280d744f4.636x421x1.jpg",
+          "id": 27472,
+          "image_url": "https://images.genius.com/77819bc25af866f53a92ebca0ee4a944.289x289x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Sounwave",
+          "url": "https://genius.com/artists/Sounwave",
+          "iq": 530
+        },
+        {
+          "api_path": "/artists/20237",
+          "header_image_url": "https://images.genius.com/1e21b88e4af30abd2708af2620f07bbe.1000x525x1.jpg",
+          "id": 20237,
+          "image_url": "https://images.genius.com/452c6ea5b6c76bde9e1e557998e05fe8.1000x1000x1.png",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "TaeBeast",
+          "url": "https://genius.com/artists/Taebeast",
+          "iq": 126
+        },
+        {
+          "api_path": "/artists/100923",
+          "header_image_url": "https://images.genius.com/7b8d12fcf5d64aa3b8c83bb63148427c.722x481x1.jpg",
+          "id": 100923,
+          "image_url": "https://images.genius.com/7b8d12fcf5d64aa3b8c83bb63148427c.722x481x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Taz Arnold",
+          "url": "https://genius.com/artists/Taz-arnold"
+        },
+        {
+          "api_path": "/artists/13291",
+          "header_image_url": "https://images.genius.com/dc8bfda4018564fb61dc175f8e8f38d9.900x506x1.jpg",
+          "id": 13291,
+          "image_url": "https://images.genius.com/2747d1dbded3ab46deeda76498bdcf2c.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Terrace Martin",
+          "url": "https://genius.com/artists/Terrace-martin",
+          "iq": 194
+        },
+        {
+          "api_path": "/artists/14481",
+          "header_image_url": "https://images.genius.com/5285f4578d1249527fe236e0ec67bcc0.801x1000x1.jpg",
+          "id": 14481,
+          "image_url": "https://images.genius.com/3bf2a60f117392cb50ad54e972044be3.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Thundercat",
+          "url": "https://genius.com/artists/Thundercat"
+        },
+        {
+          "api_path": "/artists/27948",
+          "header_image_url": "https://images.genius.com/f459ea32980b42e9d52def126940175b.408x595x1.png",
+          "id": 27948,
+          "image_url": "https://images.genius.com/f459ea32980b42e9d52def126940175b.408x595x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Tommy Black",
+          "url": "https://genius.com/artists/Tommy-black"
+        },
+        {
+          "api_path": "/artists/72747",
+          "header_image_url": "https://images.genius.com/4f8dab3121b8748f2a19f2216b34456d.512x512x1.png",
+          "id": 72747,
+          "image_url": "https://images.genius.com/4f8dab3121b8748f2a19f2216b34456d.512x512x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Whoarei",
+          "url": "https://genius.com/artists/Whoarei"
+        },
+        {
+          "api_path": "/artists/1020670",
+          "header_image_url": "https://images.genius.com/894e4de1eb2f5ac77d7e29867a3fc6ef.666x1000x1.jpg",
+          "id": 1020670,
+          "image_url": "https://images.genius.com/03b911182c6b71404e8dc5b0a1c2539b.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "ZALE",
+          "url": "https://genius.com/artists/Zale",
+          "iq": 206
+        }
+      ]
+    },
+    {
+      "label": "Writers",
+      "artists": [
+        {
+          "api_path": "/artists/1937263",
+          "header_image_url": "https://images.genius.com/bd77aa24aa65b66a161dcca3c63655da.640x640x1.jpg",
+          "id": 1937263,
+          "image_url": "https://images.genius.com/4c3fe4d733dd6315267cf57a588336c3.667x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Agent Sasco (Assassin)",
+          "url": "https://genius.com/artists/Agent-sasco-assassin",
+          "iq": 575
+        },
+        {
+          "api_path": "/artists/2994",
+          "header_image_url": "https://images.genius.com/38af31ae445f8c6ac6ce2a3b21a4605b.1000x684x1.jpg",
+          "id": 2994,
+          "image_url": "https://images.genius.com/38af31ae445f8c6ac6ce2a3b21a4605b.1000x684x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ahmad",
+          "url": "https://genius.com/artists/Ahmad"
+        },
+        {
+          "api_path": "/artists/2434",
+          "header_image_url": "https://images.genius.com/52d3ef96434c89335189e622e439c0d2.667x1000x1.jpg",
+          "id": 2434,
+          "image_url": "https://images.genius.com/d3c260e1193228d04e1ef46eedee2a49.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Anna Wise",
+          "url": "https://genius.com/artists/Anna-wise",
+          "iq": 218
+        },
+        {
+          "api_path": "/artists/662",
+          "header_image_url": "https://images.genius.com/98828a1f27577b0c693b7c410a128834.1000x563x1.png",
+          "id": 662,
+          "image_url": "https://images.genius.com/5ea6a81be7094d2468a159e10810a9a6.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Boi-1da",
+          "url": "https://genius.com/artists/Boi-1da"
+        },
+        {
+          "api_path": "/artists/337218",
+          "header_image_url": "https://images.genius.com/00c0de7e9268727c6b752fd2aabc0c08.209x209x1.jpg",
+          "id": 337218,
+          "image_url": "https://images.genius.com/00c0de7e9268727c6b752fd2aabc0c08.209x209x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Boris Gardiner",
+          "url": "https://genius.com/artists/Boris-gardiner"
+        },
+        {
+          "api_path": "/artists/402824",
+          "header_image_url": "https://images.genius.com/bc5d8f870fee6fcbf2686ad9981ef8f0.400x400x1.png",
+          "id": 402824,
+          "image_url": "https://images.genius.com/bc5d8f870fee6fcbf2686ad9981ef8f0.400x400x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Brent Kolatalo",
+          "url": "https://genius.com/artists/Brent-kolatalo"
+        },
+        {
+          "api_path": "/artists/49857",
+          "header_image_url": "https://images.genius.com/1a95c3f086a4f242432f4d519dd23d9b.1000x1000x1.jpg",
+          "id": 49857,
+          "image_url": "https://images.genius.com/1a95c3f086a4f242432f4d519dd23d9b.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Chris Jasper",
+          "url": "https://genius.com/artists/Chris-jasper"
+        },
+        {
+          "api_path": "/artists/649699",
+          "header_image_url": "https://images.genius.com/c908c0ad7704a186061e446c0b49aace.611x266x1.jpg",
+          "id": 649699,
+          "image_url": "https://images.genius.com/be87c91ebcabcc29f916f2b41d6059a6.380x380x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ernie Isley",
+          "url": "https://genius.com/artists/Ernie-isley"
+        },
+        {
+          "api_path": "/artists/67974",
+          "header_image_url": "https://images.genius.com/96e6ddfa943a668937072fd9799fd7d5.800x449x1.jpg",
+          "id": 67974,
+          "image_url": "https://images.genius.com/6c0d73a5ceee2c096d5d9685ba6b3938.385x385x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Fela Kuti",
+          "url": "https://genius.com/artists/Fela-kuti"
+        },
+        {
+          "api_path": "/artists/38455",
+          "header_image_url": "https://images.genius.com/c1c290bb950af55ddab4d4dee73908a0.933x622x1.jpg",
+          "id": 38455,
+          "image_url": "https://images.genius.com/c1c290bb950af55ddab4d4dee73908a0.933x622x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Flippa",
+          "url": "https://genius.com/artists/Flippa"
+        },
+        {
+          "api_path": "/artists/22931",
+          "header_image_url": "https://images.genius.com/6f12fc243960d2e54de6f0b8e5bdb0b3.1000x750x1.jpg",
+          "id": 22931,
+          "image_url": "https://images.genius.com/91cb174969e238bc4ececd376cdb7ed4.787x787x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Flying Lotus",
+          "url": "https://genius.com/artists/Flying-lotus"
+        },
+        {
+          "api_path": "/artists/351",
+          "header_image_url": "https://images.genius.com/99e393f2cc0ffda2b6515dd4725eb3d2.800x800x1.jpg",
+          "id": 351,
+          "image_url": "https://images.genius.com/99e393f2cc0ffda2b6515dd4725eb3d2.800x800x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "George Clinton",
+          "url": "https://genius.com/artists/George-clinton",
+          "iq": 1099
+        },
+        {
+          "api_path": "/artists/17649",
+          "header_image_url": "https://images.genius.com/a607aaea85cce57e14e083db055d99a0.924x235x1.jpg",
+          "id": 17649,
+          "image_url": "https://images.genius.com/642afd8c972482b019f7f8a5efd26aad.500x391x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "James Fauntleroy",
+          "url": "https://genius.com/artists/James-fauntleroy",
+          "iq": 2642
+        },
+        {
+          "api_path": "/artists/579555",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 579555,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Johnny Burns",
+          "url": "https://genius.com/artists/Johnny-burns"
+        },
+        {
+          "api_path": "/artists/47281",
+          "header_image_url": "https://images.genius.com/f8804253d7d2ffe23b02a7f9c1f691e9.600x600x1.jpg",
+          "id": 47281,
+          "image_url": "https://images.genius.com/f8804253d7d2ffe23b02a7f9c1f691e9.600x600x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Josef Leimberg",
+          "url": "https://genius.com/artists/Josef-leimberg"
+        },
+        {
+          "api_path": "/artists/152934",
+          "header_image_url": "https://images.genius.com/8462e667cc7248a0625279241d6c2679.545x545x1.jpg",
+          "id": 152934,
+          "image_url": "https://images.genius.com/8462e667cc7248a0625279241d6c2679.545x545x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kawan Prather",
+          "url": "https://genius.com/artists/Kawan-prather"
+        },
+        {
+          "api_path": "/artists/1421",
+          "header_image_url": "https://images.genius.com/3514a6d32afe88c48f22263e303f55d0.1000x601x1.jpg",
+          "id": 1421,
+          "image_url": "https://images.genius.com/d6d96651b423fa5a83c38ee2a4c6c939.1000x1000x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Kendrick Lamar",
+          "url": "https://genius.com/artists/Kendrick-lamar",
+          "iq": 53571
+        },
+        {
+          "api_path": "/artists/27447",
+          "header_image_url": "https://s3.amazonaws.com/rapgenius/ken-lewis-3691.jpg",
+          "id": 27447,
+          "image_url": "https://s3.amazonaws.com/rapgenius/ken-lewis-3691.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ken Lewis",
+          "url": "https://genius.com/artists/Ken-lewis"
+        },
+        {
+          "api_path": "/artists/30574",
+          "header_image_url": "https://images.genius.com/c53e783f99f8f1c83dce431fe69a1931.715x398x1.jpg",
+          "id": 30574,
+          "image_url": "https://images.genius.com/9f9cf53a358bed3823b2beea456cd91d.731x731x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Knxwledge",
+          "url": "https://genius.com/artists/Knxwledge"
+        },
+        {
+          "api_path": "/artists/29138",
+          "header_image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+          "id": 29138,
+          "image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "KOZ",
+          "url": "https://genius.com/artists/Koz"
+        },
+        {
+          "api_path": "/artists/100354",
+          "header_image_url": "https://images.genius.com/4a5994d89d8d5c9c85d4f32ea34bbd90.884x884x1.jpg",
+          "id": 100354,
+          "image_url": "https://images.genius.com/2881b713d32c040f722c21be4c53bbc0.519x519x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Lalah Hathaway",
+          "url": "https://genius.com/artists/Lalah-hathaway"
+        },
+        {
+          "api_path": "/artists/398701",
+          "header_image_url": "https://images.genius.com/c39d7da0d981e6b341264dd30a633fc2.300x300x1.jpg",
+          "id": 398701,
+          "image_url": "https://images.genius.com/c39d7da0d981e6b341264dd30a633fc2.300x300x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Marvin Isley",
+          "url": "https://genius.com/artists/Marvin-isley"
+        },
+        {
+          "api_path": "/artists/835",
+          "header_image_url": "https://images.genius.com/4dcc74779b415a3aa4e6b79ba62221ae.1000x446x1.png",
+          "id": 835,
+          "image_url": "https://images.genius.com/df91e7f0568a939dddf2c994797595b2.800x800x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Michael Jackson",
+          "url": "https://genius.com/artists/Michael-jackson"
+        },
+        {
+          "api_path": "/artists/398699",
+          "header_image_url": "https://images.genius.com/80d7ea955e11adbc1160d062386582ec.300x300x1.jpg",
+          "id": 398699,
+          "image_url": "https://images.genius.com/80d7ea955e11adbc1160d062386582ec.300x300x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "O’Kelly Isley",
+          "url": "https://genius.com/artists/Okelly-isley"
+        },
+        {
+          "api_path": "/artists/110",
+          "header_image_url": "https://images.genius.com/6bb3ce5bd62c7acfc3a66798c4bbeb26.640x427x1.jpg",
+          "id": 110,
+          "image_url": "https://images.genius.com/aa964e94a21e7b893801ed3a2bd389b8.1000x1000x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Pharrell Williams",
+          "url": "https://genius.com/artists/Pharrell-williams",
+          "iq": 692
+        },
+        {
+          "api_path": "/artists/27473",
+          "header_image_url": "https://images.genius.com/eb695f1719c7c4a88d6335270e690784.800x800x1.jpg",
+          "id": 27473,
+          "image_url": "https://images.genius.com/eb695f1719c7c4a88d6335270e690784.800x800x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Rahki",
+          "url": "https://genius.com/artists/Rahki",
+          "iq": 100
+        },
+        {
+          "api_path": "/artists/290493",
+          "header_image_url": "https://images.genius.com/dd1de05f4b252ee7486962fea4f49a90.400x400x1.jpg",
+          "id": 290493,
+          "image_url": "https://images.genius.com/c1e3c7bbb36503129c20a68185df3d6e.399x399x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Rahsaan Patterson",
+          "url": "https://genius.com/artists/Rahsaan-patterson"
+        },
+        {
+          "api_path": "/artists/40393",
+          "header_image_url": "https://images.genius.com/be6a214f2d9a33a92259fb947660985d.1000x606x1.jpg",
+          "id": 40393,
+          "image_url": "https://images.genius.com/be6a214f2d9a33a92259fb947660985d.1000x606x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Rance",
+          "url": "https://genius.com/artists/Rance"
+        },
+        {
+          "api_path": "/artists/14148",
+          "header_image_url": "https://images.genius.com/03a9d44bae1832c3786f77d173203ad2.1000x751x1.jpg",
+          "id": 14148,
+          "image_url": "https://images.genius.com/b6cda5ea09f7b5a9837c223f929499ef.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Rapsody",
+          "url": "https://genius.com/artists/Rapsody",
+          "iq": 9327
+        },
+        {
+          "api_path": "/artists/22124",
+          "header_image_url": "https://images.genius.com/d0bcb3725f39d314c5a0ad0cc850168c.509x509x1.jpg",
+          "id": 22124,
+          "image_url": "https://images.genius.com/d0bcb3725f39d314c5a0ad0cc850168c.509x509x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Redfoo",
+          "url": "https://genius.com/artists/Redfoo"
+        },
+        {
+          "api_path": "/artists/398696",
+          "header_image_url": "https://images.genius.com/97966f150d9c93d4f3a7dec5dd471463.500x333x1.jpg",
+          "id": 398696,
+          "image_url": "https://images.genius.com/97966f150d9c93d4f3a7dec5dd471463.500x333x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Rex Rideout",
+          "url": "https://genius.com/artists/Rex-rideout"
+        },
+        {
+          "api_path": "/artists/2668",
+          "header_image_url": "https://images.genius.com/a30804fadbfb3170f3a28b864e10c93d.1000x1000x1.jpg",
+          "id": 2668,
+          "image_url": "https://images.genius.com/a30804fadbfb3170f3a28b864e10c93d.1000x1000x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Ronald Isley",
+          "url": "https://genius.com/artists/Ronald-isley",
+          "iq": 838
+        },
+        {
+          "api_path": "/artists/398547",
+          "header_image_url": "https://images.genius.com/988ee769d867bc16c6248881e4997386.529x376x1.png",
+          "id": 398547,
+          "image_url": "https://images.genius.com/988ee769d867bc16c6248881e4997386.529x376x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Rose McKinney",
+          "url": "https://genius.com/artists/Rose-mckinney"
+        },
+        {
+          "api_path": "/artists/49856",
+          "header_image_url": "https://images.genius.com/768afd974ca71400d57f61434d260d63.289x289x1.jpg",
+          "id": 49856,
+          "image_url": "https://images.genius.com/768afd974ca71400d57f61434d260d63.289x289x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Rudolph Isley",
+          "url": "https://genius.com/artists/Rudolph-isley"
+        },
+        {
+          "api_path": "/artists/335402",
+          "header_image_url": "https://images.genius.com/b0cc3a204a30daa4224055c60364bfae.1000x566x1.jpg",
+          "id": 335402,
+          "image_url": "https://images.genius.com/a9fa7a376deb02c9a400d1d987f1c74a.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Sam Barsh",
+          "url": "https://genius.com/artists/Sam-barsh"
+        },
+        {
+          "api_path": "/artists/10181",
+          "header_image_url": "https://images.genius.com/3595f90eaebfe1d39c87f37f3b1ff33f.535x535x1.jpg",
+          "id": 10181,
+          "image_url": "https://images.genius.com/3595f90eaebfe1d39c87f37f3b1ff33f.535x535x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Sly Stone",
+          "url": "https://genius.com/artists/Sly-stone"
+        },
+        {
+          "api_path": "/artists/27472",
+          "header_image_url": "https://images.genius.com/047e8ba8b1b637837167155280d744f4.636x421x1.jpg",
+          "id": 27472,
+          "image_url": "https://images.genius.com/77819bc25af866f53a92ebca0ee4a944.289x289x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Sounwave",
+          "url": "https://genius.com/artists/Sounwave",
+          "iq": 530
+        },
+        {
+          "api_path": "/artists/958",
+          "header_image_url": "https://images.genius.com/0e814dfb3a569f7359ad39cf68595217.1000x166x1.jpg",
+          "id": 958,
+          "image_url": "https://images.genius.com/42c5e270ecdaabe60f38f09b7990dd3e.750x750x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Sufjan Stevens",
+          "url": "https://genius.com/artists/Sufjan-stevens"
+        },
+        {
+          "api_path": "/artists/20237",
+          "header_image_url": "https://images.genius.com/1e21b88e4af30abd2708af2620f07bbe.1000x525x1.jpg",
+          "id": 20237,
+          "image_url": "https://images.genius.com/452c6ea5b6c76bde9e1e557998e05fe8.1000x1000x1.png",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "TaeBeast",
+          "url": "https://genius.com/artists/Taebeast",
+          "iq": 126
+        },
+        {
+          "api_path": "/artists/100923",
+          "header_image_url": "https://images.genius.com/7b8d12fcf5d64aa3b8c83bb63148427c.722x481x1.jpg",
+          "id": 100923,
+          "image_url": "https://images.genius.com/7b8d12fcf5d64aa3b8c83bb63148427c.722x481x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Taz Arnold",
+          "url": "https://genius.com/artists/Taz-arnold"
+        },
+        {
+          "api_path": "/artists/13291",
+          "header_image_url": "https://images.genius.com/dc8bfda4018564fb61dc175f8e8f38d9.900x506x1.jpg",
+          "id": 13291,
+          "image_url": "https://images.genius.com/2747d1dbded3ab46deeda76498bdcf2c.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Terrace Martin",
+          "url": "https://genius.com/artists/Terrace-martin",
+          "iq": 194
+        },
+        {
+          "api_path": "/artists/14481",
+          "header_image_url": "https://images.genius.com/5285f4578d1249527fe236e0ec67bcc0.801x1000x1.jpg",
+          "id": 14481,
+          "image_url": "https://images.genius.com/3bf2a60f117392cb50ad54e972044be3.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Thundercat",
+          "url": "https://genius.com/artists/Thundercat"
+        },
+        {
+          "api_path": "/artists/27948",
+          "header_image_url": "https://images.genius.com/f459ea32980b42e9d52def126940175b.408x595x1.png",
+          "id": 27948,
+          "image_url": "https://images.genius.com/f459ea32980b42e9d52def126940175b.408x595x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Tommy Black",
+          "url": "https://genius.com/artists/Tommy-black"
+        },
+        {
+          "api_path": "/artists/72747",
+          "header_image_url": "https://images.genius.com/4f8dab3121b8748f2a19f2216b34456d.512x512x1.png",
+          "id": 72747,
+          "image_url": "https://images.genius.com/4f8dab3121b8748f2a19f2216b34456d.512x512x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Whoarei",
+          "url": "https://genius.com/artists/Whoarei"
+        },
+        {
+          "api_path": "/artists/77014",
+          "header_image_url": "https://images.genius.com/cc1965f642ce18403c9c7437797781b5.1000x779x1.png",
+          "id": 77014,
+          "image_url": "https://images.genius.com/cf0771ffe13e96b1a59720cfa5f5bc34.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Xplicit",
+          "url": "https://genius.com/artists/Xplicit"
+        },
+        {
+          "api_path": "/artists/1020670",
+          "header_image_url": "https://images.genius.com/894e4de1eb2f5ac77d7e29867a3fc6ef.666x1000x1.jpg",
+          "id": 1020670,
+          "image_url": "https://images.genius.com/03b911182c6b71404e8dc5b0a1c2539b.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "ZALE",
+          "url": "https://genius.com/artists/Zale",
+          "iq": 206
+        }
+      ]
+    },
+    {
+      "label": "Additional Bass",
+      "artists": [
+        {
+          "api_path": "/artists/14481",
+          "header_image_url": "https://images.genius.com/5285f4578d1249527fe236e0ec67bcc0.801x1000x1.jpg",
+          "id": 14481,
+          "image_url": "https://images.genius.com/3bf2a60f117392cb50ad54e972044be3.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Thundercat",
+          "url": "https://genius.com/artists/Thundercat"
+        }
+      ]
+    },
+    {
+      "label": "Additional Drum Programmer",
+      "artists": [
+        {
+          "api_path": "/artists/138751",
+          "header_image_url": "https://images.genius.com/ea1ed279b284a19c9c4fd3a4cb451f7d.360x240x1.jpg",
+          "id": 138751,
+          "image_url": "https://images.genius.com/ea1ed279b284a19c9c4fd3a4cb451f7d.360x240x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Katalyst",
+          "url": "https://genius.com/artists/Katalyst"
+        }
+      ]
+    },
+    {
+      "label": "Additional Engineer",
+      "artists": [
+        {
+          "api_path": "/artists/645043",
+          "header_image_url": "https://images.genius.com/df31d125ea54a569bff19a894eea77fe.1000x563x1.jpg",
+          "id": 645043,
+          "image_url": "https://images.genius.com/86b0f902537ca81ee78d0ad8f084d3e7.240x240x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Andrew Coleman",
+          "url": "https://genius.com/artists/Andrew-coleman"
+        },
+        {
+          "api_path": "/artists/648057",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 648057,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Hart Gunther",
+          "url": "https://genius.com/artists/Hart-gunther"
+        },
+        {
+          "api_path": "/artists/138751",
+          "header_image_url": "https://images.genius.com/ea1ed279b284a19c9c4fd3a4cb451f7d.360x240x1.jpg",
+          "id": 138751,
+          "image_url": "https://images.genius.com/ea1ed279b284a19c9c4fd3a4cb451f7d.360x240x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Katalyst",
+          "url": "https://genius.com/artists/Katalyst"
+        },
+        {
+          "api_path": "/artists/645044",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 645044,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Mike Larson",
+          "url": "https://genius.com/artists/Mike-larson"
+        }
+      ]
+    },
+    {
+      "label": "Additional Guitar",
+      "artists": [
+        {
+          "api_path": "/artists/1466659",
+          "header_image_url": "https://images.genius.com/e4da0d30cb9a4654b3e91e4479789ac9.400x400x1.jpg",
+          "id": 1466659,
+          "image_url": "https://images.genius.com/e4da0d30cb9a4654b3e91e4479789ac9.400x400x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Marlon Williams (Guitarist)",
+          "url": "https://genius.com/artists/Marlon-williams-guitarist"
+        },
+        {
+          "api_path": "/artists/643428",
+          "header_image_url": "https://images.genius.com/8201b903494e294107426090a1f176d5.400x400x1.jpg",
+          "id": 643428,
+          "image_url": "https://images.genius.com/8201b903494e294107426090a1f176d5.400x400x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Matt Schaeffer",
+          "url": "https://genius.com/artists/Matt-schaeffer"
+        }
+      ]
+    },
+    {
+      "label": "Additional Producer",
+      "artists": [
+        {
+          "api_path": "/artists/48098",
+          "header_image_url": "https://images.genius.com/d0293304508f04a8d892622a80d9216a.645x363x1.jpg",
+          "id": 48098,
+          "image_url": "https://images.genius.com/3a4543d3a6d1110b9bf5096e5a7ca59b.553x553x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "The Antydote",
+          "url": "https://genius.com/artists/The-antydote"
+        },
+        {
+          "api_path": "/artists/27447",
+          "header_image_url": "https://s3.amazonaws.com/rapgenius/ken-lewis-3691.jpg",
+          "id": 27447,
+          "image_url": "https://s3.amazonaws.com/rapgenius/ken-lewis-3691.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ken Lewis",
+          "url": "https://genius.com/artists/Ken-lewis"
+        },
+        {
+          "api_path": "/artists/27472",
+          "header_image_url": "https://images.genius.com/047e8ba8b1b637837167155280d744f4.636x421x1.jpg",
+          "id": 27472,
+          "image_url": "https://images.genius.com/77819bc25af866f53a92ebca0ee4a944.289x289x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Sounwave",
+          "url": "https://genius.com/artists/Sounwave",
+          "iq": 530
+        },
+        {
+          "api_path": "/artists/13291",
+          "header_image_url": "https://images.genius.com/dc8bfda4018564fb61dc175f8e8f38d9.900x506x1.jpg",
+          "id": 13291,
+          "image_url": "https://images.genius.com/2747d1dbded3ab46deeda76498bdcf2c.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Terrace Martin",
+          "url": "https://genius.com/artists/Terrace-martin",
+          "iq": 194
+        },
+        {
+          "api_path": "/artists/14481",
+          "header_image_url": "https://images.genius.com/5285f4578d1249527fe236e0ec67bcc0.801x1000x1.jpg",
+          "id": 14481,
+          "image_url": "https://images.genius.com/3bf2a60f117392cb50ad54e972044be3.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Thundercat",
+          "url": "https://genius.com/artists/Thundercat"
+        }
+      ]
+    },
+    {
+      "label": "Additional Vocals",
+      "artists": [
+        {
+          "api_path": "/artists/2668",
+          "header_image_url": "https://images.genius.com/a30804fadbfb3170f3a28b864e10c93d.1000x1000x1.jpg",
+          "id": 2668,
+          "image_url": "https://images.genius.com/a30804fadbfb3170f3a28b864e10c93d.1000x1000x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Ronald Isley",
+          "url": "https://genius.com/artists/Ronald-isley",
+          "iq": 838
+        }
+      ]
+    },
+    {
+      "label": "Alto Saxophone",
+      "artists": [
+        {
+          "api_path": "/artists/13291",
+          "header_image_url": "https://images.genius.com/dc8bfda4018564fb61dc175f8e8f38d9.900x506x1.jpg",
+          "id": 13291,
+          "image_url": "https://images.genius.com/2747d1dbded3ab46deeda76498bdcf2c.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Terrace Martin",
+          "url": "https://genius.com/artists/Terrace-martin",
+          "iq": 194
+        }
+      ]
+    },
+    {
+      "label": "Assistant Mixing Engineer",
+      "artists": [
+        {
+          "api_path": "/artists/643428",
+          "header_image_url": "https://images.genius.com/8201b903494e294107426090a1f176d5.400x400x1.jpg",
+          "id": 643428,
+          "image_url": "https://images.genius.com/8201b903494e294107426090a1f176d5.400x400x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Matt Schaeffer",
+          "url": "https://genius.com/artists/Matt-schaeffer"
+        },
+        {
+          "api_path": "/artists/642699",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 642699,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "The White Black Man",
+          "url": "https://genius.com/artists/The-white-black-man"
+        }
+      ]
+    },
+    {
+      "label": "Background Vocals",
+      "artists": [
+        {
+          "api_path": "/artists/2434",
+          "header_image_url": "https://images.genius.com/52d3ef96434c89335189e622e439c0d2.667x1000x1.jpg",
+          "id": 2434,
+          "image_url": "https://images.genius.com/d3c260e1193228d04e1ef46eedee2a49.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Anna Wise",
+          "url": "https://genius.com/artists/Anna-wise",
+          "iq": 218
+        },
+        {
+          "api_path": "/artists/12414",
+          "header_image_url": "https://images.genius.com/edf5d506ea63967305cc921d8326a3c1.400x400x1.jpg",
+          "id": 12414,
+          "image_url": "https://images.genius.com/c53a1bdf81d08377d49c8923b3519458.449x449x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Ash Riser",
+          "url": "https://genius.com/artists/Ash-riser",
+          "iq": 656
+        },
+        {
+          "api_path": "/artists/177",
+          "header_image_url": "https://s3.amazonaws.com/rapgenius/bilal-artist.jpg",
+          "id": 177,
+          "image_url": "https://s3.amazonaws.com/rapgenius/bilal-artist.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Bilal",
+          "url": "https://genius.com/artists/Bilal",
+          "iq": 1559
+        },
+        {
+          "api_path": "/artists/643431",
+          "header_image_url": "https://images.genius.com/79385f7c70c92ff402c42261c5251c6b.1000x1000x1.jpg",
+          "id": 643431,
+          "image_url": "https://images.genius.com/8e689c5203804f253b1b1ba221d28271.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Candace Wakefield",
+          "url": "https://genius.com/artists/Candace-wakefield",
+          "iq": 3012
+        },
+        {
+          "api_path": "/artists/643427",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 643427,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Darlene Tibbs",
+          "url": "https://genius.com/artists/Darlene-tibbs"
+        },
+        {
+          "api_path": "/artists/643445",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 643445,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Devon Downing",
+          "url": "https://genius.com/artists/Devon-downing"
+        },
+        {
+          "api_path": "/artists/643433",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 643433,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Dion Friley",
+          "url": "https://genius.com/artists/Dion-friley"
+        },
+        {
+          "api_path": "/artists/123",
+          "header_image_url": "https://images.genius.com/8f996b7d602ce42fea2b8f62d45442f2.660x371x1.png",
+          "id": 123,
+          "image_url": "https://images.genius.com/3c8cbbf8a3bd237a684c0bd81115ff0b.576x576x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Dr. Dre",
+          "url": "https://genius.com/artists/Dr-dre"
+        },
+        {
+          "api_path": "/artists/643446",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 643446,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Edwin Orellana",
+          "url": "https://genius.com/artists/Edwin-orellana"
+        },
+        {
+          "api_path": "/artists/17649",
+          "header_image_url": "https://images.genius.com/a607aaea85cce57e14e083db055d99a0.924x235x1.jpg",
+          "id": 17649,
+          "image_url": "https://images.genius.com/642afd8c972482b019f7f8a5efd26aad.500x391x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "James Fauntleroy",
+          "url": "https://genius.com/artists/James-fauntleroy",
+          "iq": 2642
+        },
+        {
+          "api_path": "/artists/2554",
+          "header_image_url": "https://images.genius.com/4464d79597f9f958b48f1755127c76be.300x317x1.jpg",
+          "id": 2554,
+          "image_url": "https://images.genius.com/80fe0afa679b2ae2fe02231f9a519b5f.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "JaVonté",
+          "url": "https://genius.com/artists/Javonte",
+          "iq": 512
+        },
+        {
+          "api_path": "/artists/643429",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 643429,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Jessica Vielmas",
+          "url": "https://genius.com/artists/Jessica-vielmas"
+        },
+        {
+          "api_path": "/artists/47281",
+          "header_image_url": "https://images.genius.com/f8804253d7d2ffe23b02a7f9c1f691e9.600x600x1.jpg",
+          "id": 47281,
+          "image_url": "https://images.genius.com/f8804253d7d2ffe23b02a7f9c1f691e9.600x600x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Josef Leimberg",
+          "url": "https://genius.com/artists/Josef-leimberg"
+        },
+        {
+          "api_path": "/artists/100354",
+          "header_image_url": "https://images.genius.com/4a5994d89d8d5c9c85d4f32ea34bbd90.884x884x1.jpg",
+          "id": 100354,
+          "image_url": "https://images.genius.com/2881b713d32c040f722c21be4c53bbc0.519x519x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Lalah Hathaway",
+          "url": "https://genius.com/artists/Lalah-hathaway"
+        },
+        {
+          "api_path": "/artists/100",
+          "header_image_url": "https://images.genius.com/286f53fc968cbd65e446e8d0f03f7c5e.347x347x1.png",
+          "id": 100,
+          "image_url": "https://images.genius.com/286f53fc968cbd65e446e8d0f03f7c5e.347x347x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Pete Rock",
+          "url": "https://genius.com/artists/Pete-rock"
+        },
+        {
+          "api_path": "/artists/110",
+          "header_image_url": "https://images.genius.com/6bb3ce5bd62c7acfc3a66798c4bbeb26.640x427x1.jpg",
+          "id": 110,
+          "image_url": "https://images.genius.com/aa964e94a21e7b893801ed3a2bd389b8.1000x1000x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Pharrell Williams",
+          "url": "https://genius.com/artists/Pharrell-williams",
+          "iq": 692
+        },
+        {
+          "api_path": "/artists/94602",
+          "header_image_url": "https://images.genius.com/214b5db1c5552e4f85b3c316ea71b5ed.636x421x1.jpg",
+          "id": 94602,
+          "image_url": "https://images.genius.com/68b2857b5abd0033dbe0cf02b199a13b.421x421x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Preston Harris",
+          "url": "https://genius.com/artists/Preston-harris"
+        },
+        {
+          "api_path": "/artists/1201097",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1201097,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Shava’sha Dickerson",
+          "url": "https://genius.com/artists/Shavasha-dickerson"
+        },
+        {
+          "api_path": "/artists/41579",
+          "header_image_url": "https://images.genius.com/35f251a9b697812fc6fa7e1fc3b144d9.1000x1000x1.jpg",
+          "id": 41579,
+          "image_url": "https://images.genius.com/c4afa603906452118e2cf171af859133.510x510x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "SZA",
+          "url": "https://genius.com/artists/Sza",
+          "iq": 5938
+        },
+        {
+          "api_path": "/artists/643437",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 643437,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Talkbox Monte",
+          "url": "https://genius.com/artists/Talkbox-monte"
+        },
+        {
+          "api_path": "/artists/100923",
+          "header_image_url": "https://images.genius.com/7b8d12fcf5d64aa3b8c83bb63148427c.722x481x1.jpg",
+          "id": 100923,
+          "image_url": "https://images.genius.com/7b8d12fcf5d64aa3b8c83bb63148427c.722x481x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Taz Arnold",
+          "url": "https://genius.com/artists/Taz-arnold"
+        },
+        {
+          "api_path": "/artists/14481",
+          "header_image_url": "https://images.genius.com/5285f4578d1249527fe236e0ec67bcc0.801x1000x1.jpg",
+          "id": 14481,
+          "image_url": "https://images.genius.com/3bf2a60f117392cb50ad54e972044be3.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Thundercat",
+          "url": "https://genius.com/artists/Thundercat"
+        },
+        {
+          "api_path": "/artists/642714",
+          "header_image_url": "https://images.genius.com/f2df282017899f862b7dc3b934413b8c.1000x666x1.jpg",
+          "id": 642714,
+          "image_url": "https://images.genius.com/f8c4acf41c4b3ebaa0b6aedc68c1cf95.450x450x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Whitney Alford",
+          "url": "https://genius.com/artists/Whitney-alford"
+        },
+        {
+          "api_path": "/artists/72747",
+          "header_image_url": "https://images.genius.com/4f8dab3121b8748f2a19f2216b34456d.512x512x1.png",
+          "id": 72747,
+          "image_url": "https://images.genius.com/4f8dab3121b8748f2a19f2216b34456d.512x512x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Whoarei",
+          "url": "https://genius.com/artists/Whoarei"
+        },
+        {
+          "api_path": "/artists/25141",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 25141,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Wyann Vaughn",
+          "url": "https://genius.com/artists/Wyann-vaughn"
+        },
+        {
+          "api_path": "/artists/21718",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 21718,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Z Most",
+          "url": "https://genius.com/artists/Z-most"
+        }
+      ]
+    },
+    {
+      "label": "Backing Vocals",
+      "artists": [
+        {
+          "api_path": "/artists/14481",
+          "header_image_url": "https://images.genius.com/5285f4578d1249527fe236e0ec67bcc0.801x1000x1.jpg",
+          "id": 14481,
+          "image_url": "https://images.genius.com/3bf2a60f117392cb50ad54e972044be3.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Thundercat",
+          "url": "https://genius.com/artists/Thundercat"
+        }
+      ]
+    },
+    {
+      "label": "Baritone Saxophone",
+      "artists": [
+        {
+          "api_path": "/artists/640941",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 640941,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Adam Turchin",
+          "url": "https://genius.com/artists/Adam-turchin"
+        },
+        {
+          "api_path": "/artists/500783",
+          "header_image_url": "https://images.genius.com/36b7710d296c50f17927f2bd761e0dd8.1000x562x1.jpg",
+          "id": 500783,
+          "image_url": "https://images.genius.com/2d1cf0610b22c6e3e119b1422b1b5d56.731x731x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kamasi Washington",
+          "url": "https://genius.com/artists/Kamasi-washington"
+        }
+      ]
+    },
+    {
+      "label": "Bass",
+      "artists": [
+        {
+          "api_path": "/artists/1111167",
+          "header_image_url": "https://images.genius.com/3992337e74d71626e0ebd01b306583f4.683x683x1.jpg",
+          "id": 1111167,
+          "image_url": "https://images.genius.com/3992337e74d71626e0ebd01b306583f4.683x683x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Brandon Eugene Owens",
+          "url": "https://genius.com/artists/Brandon-eugene-owens"
+        },
+        {
+          "api_path": "/artists/138556",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 138556,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Chris Smith",
+          "url": "https://genius.com/artists/Chris-smith"
+        },
+        {
+          "api_path": "/artists/612504",
+          "header_image_url": "https://images.genius.com/935734733b8d6aac23deb165809951c2.1000x667x1.jpg",
+          "id": 612504,
+          "image_url": "https://images.genius.com/fec80cda3bdd8505e691682a95a34d28.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Miles Mosley",
+          "url": "https://genius.com/artists/Miles-mosley"
+        },
+        {
+          "api_path": "/artists/14481",
+          "header_image_url": "https://images.genius.com/5285f4578d1249527fe236e0ec67bcc0.801x1000x1.jpg",
+          "id": 14481,
+          "image_url": "https://images.genius.com/3bf2a60f117392cb50ad54e972044be3.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Thundercat",
+          "url": "https://genius.com/artists/Thundercat"
+        }
+      ]
+    },
+    {
+      "label": "Bass Guitar",
+      "artists": [
+        {
+          "api_path": "/artists/14481",
+          "header_image_url": "https://images.genius.com/5285f4578d1249527fe236e0ec67bcc0.801x1000x1.jpg",
+          "id": 14481,
+          "image_url": "https://images.genius.com/3bf2a60f117392cb50ad54e972044be3.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Thundercat",
+          "url": "https://genius.com/artists/Thundercat"
+        }
+      ]
+    },
+    {
+      "label": "Cello",
+      "artists": [
+        {
+          "api_path": "/artists/661324",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 661324,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Adrienne Woods",
+          "url": "https://genius.com/artists/Adrienne-woods"
+        },
+        {
+          "api_path": "/artists/642701",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 642701,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Gabriel Noel",
+          "url": "https://genius.com/artists/Gabriel-noel"
+        },
+        {
+          "api_path": "/artists/612513",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 612513,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ginger Murphy",
+          "url": "https://genius.com/artists/Ginger-murphy"
+        }
+      ]
+    },
+    {
+      "label": "Clarinet",
+      "artists": [
+        {
+          "api_path": "/artists/642700",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 642700,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Pedro Castro",
+          "url": "https://genius.com/artists/Pedro-castro"
+        }
+      ]
+    },
+    {
+      "label": "Co-Producer",
+      "artists": [
+        {
+          "api_path": "/artists/1020670",
+          "header_image_url": "https://images.genius.com/894e4de1eb2f5ac77d7e29867a3fc6ef.666x1000x1.jpg",
+          "id": 1020670,
+          "image_url": "https://images.genius.com/03b911182c6b71404e8dc5b0a1c2539b.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "ZALE",
+          "url": "https://genius.com/artists/Zale",
+          "iq": 206
+        }
+      ]
+    },
+    {
+      "label": "Copyright",
+      "artists": [
+        {
+          "api_path": "/artists/1136259",
+          "header_image_url": "https://images.genius.com/0cdf9c00e6a53abaf3ecffbf77c4e04e.1000x500x1.jpg",
+          "id": 1136259,
+          "image_url": "https://images.genius.com/ce0ff7521d657a567e4d76a5bb6f4508.304x304x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Aftermath Entertainment",
+          "url": "https://genius.com/artists/Aftermath-entertainment"
+        },
+        {
+          "api_path": "/artists/143490",
+          "header_image_url": "https://images.genius.com/20ee0dc07918a750d532b2316361d3a2.1000x333x1.jpg",
+          "id": 143490,
+          "image_url": "https://images.genius.com/f28d415a7f5f966f5814e7c07cf8dc23.271x271x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Interscope Records",
+          "url": "https://genius.com/artists/Interscope-records",
+          "iq": 175
+        }
+      ]
+    },
+    {
+      "label": "Copyright ©",
+      "artists": [
+        {
+          "api_path": "/artists/1136259",
+          "header_image_url": "https://images.genius.com/0cdf9c00e6a53abaf3ecffbf77c4e04e.1000x500x1.jpg",
+          "id": 1136259,
+          "image_url": "https://images.genius.com/ce0ff7521d657a567e4d76a5bb6f4508.304x304x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Aftermath Entertainment",
+          "url": "https://genius.com/artists/Aftermath-entertainment"
+        },
+        {
+          "api_path": "/artists/143490",
+          "header_image_url": "https://images.genius.com/20ee0dc07918a750d532b2316361d3a2.1000x333x1.jpg",
+          "id": 143490,
+          "image_url": "https://images.genius.com/f28d415a7f5f966f5814e7c07cf8dc23.271x271x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Interscope Records",
+          "url": "https://genius.com/artists/Interscope-records",
+          "iq": 175
+        }
+      ]
+    },
+    {
+      "label": "Drums",
+      "artists": [
+        {
+          "api_path": "/artists/643443",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 643443,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kendall Lewis",
+          "url": "https://genius.com/artists/Kendall-lewis"
+        },
+        {
+          "api_path": "/artists/643425",
+          "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+          "id": 643425,
+          "image_url": "https://images.genius.com/0c6f7d9a16b2615d78a61b1bce8ce2a2.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Robert “Sput” Searight",
+          "url": "https://genius.com/artists/Robert-sput-searight"
+        },
+        {
+          "api_path": "/artists/643438",
+          "header_image_url": "https://images.genius.com/498c247b27aad904e7163aeb62565267.594x475x1.jpg",
+          "id": 643438,
+          "image_url": "https://images.genius.com/30e6aa8b50b48cf4f6cfcc8819ff8f6f.475x475x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ronald Bruner Jr.",
+          "url": "https://genius.com/artists/Ronald-bruner-jr"
+        },
+        {
+          "api_path": "/artists/555560",
+          "header_image_url": "https://images.genius.com/da96d3b4bd73a12bc3e6513738a70337.763x533x1.jpg",
+          "id": 555560,
+          "image_url": "https://images.genius.com/1347d861c332598a943b2f14f8c14675.622x622x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Trevor Lawrence Jr.",
+          "url": "https://genius.com/artists/Trevor-lawrence-jr"
+        }
+      ]
+    },
+    {
+      "label": "Flute",
+      "artists": [
+        {
+          "api_path": "/artists/1201095",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1201095,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Rickey Washington",
+          "url": "https://genius.com/artists/Rickey-washington"
+        }
+      ]
+    },
+    {
+      "label": "French Horn",
+      "artists": [
+        {
+          "api_path": "/artists/1201094",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1201094,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Amy Sanchez",
+          "url": "https://genius.com/artists/Amy-sanchez"
+        }
+      ]
+    },
+    {
+      "label": "Guitar",
+      "artists": [
+        {
+          "api_path": "/artists/640942",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 640942,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Gregory Moore",
+          "url": "https://genius.com/artists/Gregory-moore"
+        },
+        {
+          "api_path": "/artists/643442",
+          "header_image_url": "https://images.genius.com/d44b60fa3f010677f01fb047e1c763a1.400x400x1.jpg",
+          "id": 643442,
+          "image_url": "https://images.genius.com/d44b60fa3f010677f01fb047e1c763a1.400x400x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Keith Askey",
+          "url": "https://genius.com/artists/Keith-askey"
+        },
+        {
+          "api_path": "/artists/1466659",
+          "header_image_url": "https://images.genius.com/e4da0d30cb9a4654b3e91e4479789ac9.400x400x1.jpg",
+          "id": 1466659,
+          "image_url": "https://images.genius.com/e4da0d30cb9a4654b3e91e4479789ac9.400x400x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Marlon Williams (Guitarist)",
+          "url": "https://genius.com/artists/Marlon-williams-guitarist"
+        }
+      ]
+    },
+    {
+      "label": "Horns",
+      "artists": [
+        {
+          "api_path": "/artists/13291",
+          "header_image_url": "https://images.genius.com/dc8bfda4018564fb61dc175f8e8f38d9.900x506x1.jpg",
+          "id": 13291,
+          "image_url": "https://images.genius.com/2747d1dbded3ab46deeda76498bdcf2c.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Terrace Martin",
+          "url": "https://genius.com/artists/Terrace-martin",
+          "iq": 194
+        }
+      ]
+    },
+    {
+      "label": "Keyboards",
+      "artists": [
+        {
+          "api_path": "/artists/573040",
+          "header_image_url": "https://images.genius.com/899e6a744b4fa8f9786b502dc494345a.1000x575x1.jpg",
+          "id": 573040,
+          "image_url": "https://images.genius.com/20c0562c16ac2dc669ad38d727b6482a.236x236x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Junius Bervine",
+          "url": "https://genius.com/artists/Junius-bervine"
+        },
+        {
+          "api_path": "/artists/40393",
+          "header_image_url": "https://images.genius.com/be6a214f2d9a33a92259fb947660985d.1000x606x1.jpg",
+          "id": 40393,
+          "image_url": "https://images.genius.com/be6a214f2d9a33a92259fb947660985d.1000x606x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Rance",
+          "url": "https://genius.com/artists/Rance"
+        },
+        {
+          "api_path": "/artists/17235",
+          "header_image_url": "https://images.genius.com/3bb1216cf47b136e9c089cd21056bbd4.1000x655x1.jpg",
+          "id": 17235,
+          "image_url": "https://images.genius.com/ffa8f6c1e5c2142aff9c9e7d5365ed36.786x786x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Robert Glasper",
+          "url": "https://genius.com/artists/Robert-glasper"
+        },
+        {
+          "api_path": "/artists/643425",
+          "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+          "id": 643425,
+          "image_url": "https://images.genius.com/0c6f7d9a16b2615d78a61b1bce8ce2a2.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Robert “Sput” Searight",
+          "url": "https://genius.com/artists/Robert-sput-searight"
+        },
+        {
+          "api_path": "/artists/335402",
+          "header_image_url": "https://images.genius.com/b0cc3a204a30daa4224055c60364bfae.1000x566x1.jpg",
+          "id": 335402,
+          "image_url": "https://images.genius.com/a9fa7a376deb02c9a400d1d987f1c74a.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Sam Barsh",
+          "url": "https://genius.com/artists/Sam-barsh"
+        },
+        {
+          "api_path": "/artists/27472",
+          "header_image_url": "https://images.genius.com/047e8ba8b1b637837167155280d744f4.636x421x1.jpg",
+          "id": 27472,
+          "image_url": "https://images.genius.com/77819bc25af866f53a92ebca0ee4a944.289x289x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Sounwave",
+          "url": "https://genius.com/artists/Sounwave",
+          "iq": 530
+        },
+        {
+          "api_path": "/artists/13291",
+          "header_image_url": "https://images.genius.com/dc8bfda4018564fb61dc175f8e8f38d9.900x506x1.jpg",
+          "id": 13291,
+          "image_url": "https://images.genius.com/2747d1dbded3ab46deeda76498bdcf2c.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Terrace Martin",
+          "url": "https://genius.com/artists/Terrace-martin",
+          "iq": 194
+        }
+      ]
+    },
+    {
+      "label": "Label",
+      "artists": [
+        {
+          "api_path": "/artists/1136259",
+          "header_image_url": "https://images.genius.com/0cdf9c00e6a53abaf3ecffbf77c4e04e.1000x500x1.jpg",
+          "id": 1136259,
+          "image_url": "https://images.genius.com/ce0ff7521d657a567e4d76a5bb6f4508.304x304x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Aftermath Entertainment",
+          "url": "https://genius.com/artists/Aftermath-entertainment"
+        },
+        {
+          "api_path": "/artists/143490",
+          "header_image_url": "https://images.genius.com/20ee0dc07918a750d532b2316361d3a2.1000x333x1.jpg",
+          "id": 143490,
+          "image_url": "https://images.genius.com/f28d415a7f5f966f5814e7c07cf8dc23.271x271x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Interscope Records",
+          "url": "https://genius.com/artists/Interscope-records",
+          "iq": 175
+        },
+        {
+          "api_path": "/artists/1108010",
+          "header_image_url": "https://images.genius.com/b6d0cd73308dc9c8c514b5c11081f1a5.500x333x1.jpg",
+          "id": 1108010,
+          "image_url": "https://images.genius.com/8d7bc7b0d6188a564b2b0cc553fbe199.899x899x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Top Dawg Entertainment",
+          "url": "https://genius.com/artists/Top-dawg-entertainment"
+        }
+      ]
+    },
+    {
+      "label": "Mixing Engineer",
+      "artists": [
+        {
+          "api_path": "/artists/640014",
+          "header_image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+          "id": 640014,
+          "image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Mixed by Ali",
+          "url": "https://genius.com/artists/Mixed-by-ali"
+        }
+      ]
+    },
+    {
+      "label": "Organ",
+      "artists": [
+        {
+          "api_path": "/artists/34035",
+          "header_image_url": "https://images.genius.com/602a7930a72a591684b5b320539d91b3.220x220x1.jpg",
+          "id": 34035,
+          "image_url": "https://images.genius.com/602a7930a72a591684b5b320539d91b3.220x220x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Craig Brockman",
+          "url": "https://genius.com/artists/Craig-brockman"
+        }
+      ]
+    },
+    {
+      "label": "Percussion",
+      "artists": [
+        {
+          "api_path": "/artists/27473",
+          "header_image_url": "https://images.genius.com/eb695f1719c7c4a88d6335270e690784.800x800x1.jpg",
+          "id": 27473,
+          "image_url": "https://images.genius.com/eb695f1719c7c4a88d6335270e690784.800x800x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Rahki",
+          "url": "https://genius.com/artists/Rahki",
+          "iq": 100
+        },
+        {
+          "api_path": "/artists/40393",
+          "header_image_url": "https://images.genius.com/be6a214f2d9a33a92259fb947660985d.1000x606x1.jpg",
+          "id": 40393,
+          "image_url": "https://images.genius.com/be6a214f2d9a33a92259fb947660985d.1000x606x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Rance",
+          "url": "https://genius.com/artists/Rance"
+        }
+      ]
+    },
+    {
+      "label": "Performance Rights",
+      "artists": [
+        {
+          "api_path": "/artists/551598",
+          "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+          "id": 551598,
+          "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "ASCAP",
+          "url": "https://genius.com/artists/Ascap"
+        },
+        {
+          "api_path": "/artists/1138091",
+          "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+          "id": 1138091,
+          "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "BMI",
+          "url": "https://genius.com/artists/Bmi"
+        },
+        {
+          "api_path": "/artists/1148777",
+          "header_image_url": "https://images.genius.com/0e5174366cfce663596c57d34c925e6d.1000x563x1.jpg",
+          "id": 1148777,
+          "image_url": "https://images.genius.com/b4aba1e6d323461735b291be342cc225.225x225x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Global Music Rights",
+          "url": "https://genius.com/artists/Global-music-rights"
+        },
+        {
+          "api_path": "/artists/1112945",
+          "header_image_url": "https://images.genius.com/5628014635b8cfcfde42fc0e3ab35502.1000x747x1.jpg",
+          "id": 1112945,
+          "image_url": "https://images.genius.com/00788019f60760a89012a64cb9356d64.999x999x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "PRS",
+          "url": "https://genius.com/artists/Prs"
+        },
+        {
+          "api_path": "/artists/2242705",
+          "header_image_url": "https://images.genius.com/6c63feb09350ae47ce9d58fc2d27040f.1000x666x1.jpg",
+          "id": 2242705,
+          "image_url": "https://images.genius.com/1d69bee4e99101f38b4cc026f389259d.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "SACEM",
+          "url": "https://genius.com/artists/Sacem"
+        },
+        {
+          "api_path": "/artists/838535",
+          "header_image_url": "https://images.genius.com/102f80430df97ed1699d6e61ab09ddf7.1000x213x1.png",
+          "id": 838535,
+          "image_url": "https://images.genius.com/47743b4bd8428b4457b9d9f82e42361b.1000x1000x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "SESAC",
+          "url": "https://genius.com/artists/Sesac"
+        },
+        {
+          "api_path": "/artists/2227029",
+          "header_image_url": "https://images.genius.com/115970b35453a5e39681034f2ee1b2e4.730x163x1.png",
+          "id": 2227029,
+          "image_url": "https://images.genius.com/099ea2777ac975ccb7819a67580847eb.1000x1000x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "SOCAN",
+          "url": "https://genius.com/artists/Socan"
+        },
+        {
+          "api_path": "/artists/2235628",
+          "header_image_url": "https://images.genius.com/d07e824adea835fa2c127663754b0a05.1000x333x1.jpg",
+          "id": 2235628,
+          "image_url": "https://images.genius.com/acb18e359463605b28adca59d95f195a.479x479x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "STIM (PRO)",
+          "url": "https://genius.com/artists/Stim-pro"
+        }
+      ]
+    },
+    {
+      "label": "Phonographic Copyright ℗",
+      "artists": [
+        {
+          "api_path": "/artists/1136259",
+          "header_image_url": "https://images.genius.com/0cdf9c00e6a53abaf3ecffbf77c4e04e.1000x500x1.jpg",
+          "id": 1136259,
+          "image_url": "https://images.genius.com/ce0ff7521d657a567e4d76a5bb6f4508.304x304x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Aftermath Entertainment",
+          "url": "https://genius.com/artists/Aftermath-entertainment"
+        },
+        {
+          "api_path": "/artists/143490",
+          "header_image_url": "https://images.genius.com/20ee0dc07918a750d532b2316361d3a2.1000x333x1.jpg",
+          "id": 143490,
+          "image_url": "https://images.genius.com/f28d415a7f5f966f5814e7c07cf8dc23.271x271x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Interscope Records",
+          "url": "https://genius.com/artists/Interscope-records",
+          "iq": 175
+        }
+      ]
+    },
+    {
+      "label": "Piano",
+      "artists": [
+        {
+          "api_path": "/artists/17235",
+          "header_image_url": "https://images.genius.com/3bb1216cf47b136e9c089cd21056bbd4.1000x655x1.jpg",
+          "id": 17235,
+          "image_url": "https://images.genius.com/ffa8f6c1e5c2142aff9c9e7d5365ed36.786x786x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Robert Glasper",
+          "url": "https://genius.com/artists/Robert-glasper"
+        }
+      ]
+    },
+    {
+      "label": "Publisher",
+      "artists": [
+        {
+          "api_path": "/artists/647974",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 647974,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "1damentional Publishing",
+          "url": "https://genius.com/artists/1damentional-publishing"
+        },
+        {
+          "api_path": "/artists/2318350",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2318350,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "1 Deniable Publishing",
+          "url": "https://genius.com/artists/1-deniable-publishing"
+        },
+        {
+          "api_path": "/artists/2994",
+          "header_image_url": "https://images.genius.com/38af31ae445f8c6ac6ce2a3b21a4605b.1000x684x1.jpg",
+          "id": 2994,
+          "image_url": "https://images.genius.com/38af31ae445f8c6ac6ce2a3b21a4605b.1000x684x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ahmad",
+          "url": "https://genius.com/artists/Ahmad"
+        },
+        {
+          "api_path": "/artists/145774",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 145774,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Almo Music Corp.",
+          "url": "https://genius.com/artists/Almo-music-corp"
+        },
+        {
+          "api_path": "/artists/1981859",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1981859,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Anna Smiles Music",
+          "url": "https://genius.com/artists/Anna-smiles-music"
+        },
+        {
+          "api_path": "/artists/2265105",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2265105,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Barsh Music",
+          "url": "https://genius.com/artists/Barsh-music"
+        },
+        {
+          "api_path": "/artists/650049",
+          "header_image_url": "https://images.genius.com/7edaec9502bcac4b8ec643bc45396aee.225x225x1.jpg",
+          "id": 650049,
+          "image_url": "https://images.genius.com/7edaec9502bcac4b8ec643bc45396aee.225x225x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Beat Bully Productions",
+          "url": "https://genius.com/artists/Beat-bully-productions"
+        },
+        {
+          "api_path": "/artists/982717",
+          "header_image_url": "https://images.genius.com/4d9a31dccc2e9f7382a8fb29f1b80149.400x400x1.jpg",
+          "id": 982717,
+          "image_url": "https://images.genius.com/4d9a31dccc2e9f7382a8fb29f1b80149.400x400x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Because Music",
+          "url": "https://genius.com/artists/Because-music"
+        },
+        {
+          "api_path": "/artists/2258087",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2258087,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Big Yacht Music",
+          "url": "https://genius.com/artists/Big-yacht-music"
+        },
+        {
+          "api_path": "/artists/2316554",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2316554,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Blessed Seeds of God",
+          "url": "https://genius.com/artists/Blessed-seeds-of-god"
+        },
+        {
+          "api_path": "/artists/2253056",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2253056,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Blue Nike Publishing",
+          "url": "https://genius.com/artists/Blue-nike-publishing"
+        },
+        {
+          "api_path": "/artists/1011919",
+          "header_image_url": "https://images.genius.com/054a299c5a9e0961dfa43145a8665744.1000x465x1.png",
+          "id": 1011919,
+          "image_url": "https://images.genius.com/d7674e632d4ffeb66c78b9a2ec56f32e.400x400x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "BMG",
+          "url": "https://genius.com/artists/Bmg"
+        },
+        {
+          "api_path": "/artists/2256091",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2256091,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "BMG Firefly",
+          "url": "https://genius.com/artists/Bmg-firefly"
+        },
+        {
+          "api_path": "/artists/992360",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 992360,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "BMG Gold Songs",
+          "url": "https://genius.com/artists/Bmg-gold-songs"
+        },
+        {
+          "api_path": "/artists/1039842",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1039842,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "BMG Monarch",
+          "url": "https://genius.com/artists/Bmg-monarch"
+        },
+        {
+          "api_path": "/artists/1039843",
+          "header_image_url": "https://images.genius.com/95537b6b72e2ee923324f2635cc9e823.1000x563x1.png",
+          "id": 1039843,
+          "image_url": "https://images.genius.com/95537b6b72e2ee923324f2635cc9e823.1000x563x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "BMG Platinum Songs",
+          "url": "https://genius.com/artists/Bmg-platinum-songs"
+        },
+        {
+          "api_path": "/artists/648694",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 648694,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Bovina Music",
+          "url": "https://genius.com/artists/Bovina-music"
+        },
+        {
+          "api_path": "/artists/649345",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 649345,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Bridgeport Music",
+          "url": "https://genius.com/artists/Bridgeport-music"
+        },
+        {
+          "api_path": "/artists/2281952",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2281952,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Deep Technology Music",
+          "url": "https://genius.com/artists/Deep-technology-music"
+        },
+        {
+          "api_path": "/artists/30935",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 30935,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Downtown Music",
+          "url": "https://genius.com/artists/Downtown-music"
+        },
+        {
+          "api_path": "/artists/2318329",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2318329,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ecstasoul Music",
+          "url": "https://genius.com/artists/Ecstasoul-music"
+        },
+        {
+          "api_path": "/artists/647230",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 647230,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "EMI April Music",
+          "url": "https://genius.com/artists/Emi-april-music"
+        },
+        {
+          "api_path": "/artists/1219538",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1219538,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "EMI Full Keel Music",
+          "url": "https://genius.com/artists/Emi-full-keel-music"
+        },
+        {
+          "api_path": "/artists/1209162",
+          "header_image_url": "https://images.genius.com/159ffe1bdbffeaf422f56a9a648f8b21.1000x485x1.png",
+          "id": 1209162,
+          "image_url": "https://images.genius.com/fd149dde35fbbd337e610fa4b159fd33.224x224x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "EMI Music Publishing Group",
+          "url": "https://genius.com/artists/Emi-music-publishing-group"
+        },
+        {
+          "api_path": "/artists/2265279",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2265279,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "EMI Pop Music Publishing",
+          "url": "https://genius.com/artists/Emi-pop-music-publishing"
+        },
+        {
+          "api_path": "/artists/648001",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 648001,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Fauntleroy Music",
+          "url": "https://genius.com/artists/Fauntleroy-music"
+        },
+        {
+          "api_path": "/artists/2291310",
+          "header_image_url": "https://images.genius.com/b5170965004b060652fe719ce0ab1585.125x125x1.png",
+          "id": 2291310,
+          "image_url": "https://images.genius.com/b5170965004b060652fe719ce0ab1585.125x125x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "French Fried Music",
+          "url": "https://genius.com/artists/French-fried-music"
+        },
+        {
+          "api_path": "/artists/2243216",
+          "header_image_url": "https://images.genius.com/01498925579661271a7ad4ef935da167.1000x428x1.png",
+          "id": 2243216,
+          "image_url": "https://images.genius.com/7f47ecb3152eac70c47d15c392b614bf.675x675x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Great South Bay Music Group",
+          "url": "https://genius.com/artists/Great-south-bay-music-group"
+        },
+        {
+          "api_path": "/artists/2316543",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2316543,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Haka Taka Music",
+          "url": "https://genius.com/artists/Haka-taka-music"
+        },
+        {
+          "api_path": "/artists/648506",
+          "header_image_url": "https://images.genius.com/74426baa896c80996f8292296535de9a.400x400x1.jpg",
+          "id": 648506,
+          "image_url": "https://images.genius.com/74426baa896c80996f8292296535de9a.400x400x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Hard Working Black Folks Publishing",
+          "url": "https://genius.com/artists/Hard-working-black-folks-publishing"
+        },
+        {
+          "api_path": "/artists/1998298",
+          "header_image_url": "https://images.genius.com/e4936f1209db588cdd1ffeb779475987.600x600x1.jpg",
+          "id": 1998298,
+          "image_url": "https://images.genius.com/e4936f1209db588cdd1ffeb779475987.600x600x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Imagem",
+          "url": "https://genius.com/artists/Imagem"
+        },
+        {
+          "api_path": "/artists/143490",
+          "header_image_url": "https://images.genius.com/20ee0dc07918a750d532b2316361d3a2.1000x333x1.jpg",
+          "id": 143490,
+          "image_url": "https://images.genius.com/f28d415a7f5f966f5814e7c07cf8dc23.271x271x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Interscope Records",
+          "url": "https://genius.com/artists/Interscope-records",
+          "iq": 175
+        },
+        {
+          "api_path": "/artists/2270161",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2270161,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "In Thee Face Music Publishing",
+          "url": "https://genius.com/artists/In-thee-face-music-publishing"
+        },
+        {
+          "api_path": "/artists/2268987",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2268987,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Josef Leimberg Music",
+          "url": "https://genius.com/artists/Josef-leimberg-music"
+        },
+        {
+          "api_path": "/artists/664365",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 664365,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Just Isn’t Music",
+          "url": "https://genius.com/artists/Just-isnt-music"
+        },
+        {
+          "api_path": "/artists/2281953",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2281953,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kendal’s Soul Music",
+          "url": "https://genius.com/artists/Kendals-soul-music"
+        },
+        {
+          "api_path": "/artists/2280835",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2280835,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kenobi Songs Publishing",
+          "url": "https://genius.com/artists/Kenobi-songs-publishing"
+        },
+        {
+          "api_path": "/artists/1179023",
+          "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+          "id": 1179023,
+          "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kobalt Music",
+          "url": "https://genius.com/artists/Kobalt-music"
+        },
+        {
+          "api_path": "/artists/1199981",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1199981,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Mijac Music",
+          "url": "https://genius.com/artists/Mijac-music"
+        },
+        {
+          "api_path": "/artists/1327908",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1327908,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Missing Link Music",
+          "url": "https://genius.com/artists/Missing-link-music"
+        },
+        {
+          "api_path": "/artists/647980",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 647980,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "More Water From Nazareth",
+          "url": "https://genius.com/artists/More-water-from-nazareth"
+        },
+        {
+          "api_path": "/artists/1100826",
+          "header_image_url": "https://images.genius.com/ead8e0ff35bebd70e405e5dedbf64dee.1000x338x1.jpg",
+          "id": 1100826,
+          "image_url": "https://images.genius.com/33b239bfa439b9729eebf2df36a4fe62.585x585x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "New World Music",
+          "url": "https://genius.com/artists/New-world-music"
+        },
+        {
+          "api_path": "/artists/1193996",
+          "header_image_url": "https://images.genius.com/8b5d500e09492dd7675f3289a73d7e3a.512x512x1.jpg",
+          "id": 1193996,
+          "image_url": "https://images.genius.com/8b5d500e09492dd7675f3289a73d7e3a.512x512x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Notting Hill Music",
+          "url": "https://genius.com/artists/Notting-hill-music"
+        },
+        {
+          "api_path": "/artists/2280597",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2280597,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "PECF",
+          "url": "https://genius.com/artists/Pecf"
+        },
+        {
+          "api_path": "/artists/644595",
+          "header_image_url": "https://images.genius.com/d0a503f329bb67ced923c82252bc958d.600x147x1.png",
+          "id": 644595,
+          "image_url": "https://images.genius.com/764870a8c2f10ca85d70afbe9799663d.432x432x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "​peermusic",
+          "url": "https://genius.com/artists/Peermusic"
+        },
+        {
+          "api_path": "/artists/2265104",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2265104,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Pen Music Group",
+          "url": "https://genius.com/artists/Pen-music-group"
+        },
+        {
+          "api_path": "/artists/2318322",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2318322,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Producer Pizza Publishing",
+          "url": "https://genius.com/artists/Producer-pizza-publishing"
+        },
+        {
+          "api_path": "/artists/2316562",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2316562,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Q Baby Music",
+          "url": "https://genius.com/artists/Q-baby-music"
+        },
+        {
+          "api_path": "/artists/2318342",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2318342,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Richtown Music",
+          "url": "https://genius.com/artists/Richtown-music"
+        },
+        {
+          "api_path": "/artists/1710098",
+          "header_image_url": "https://images.genius.com/c3dad93b4d939b50666ecfb4d2740936.1000x1000x1.png",
+          "id": 1710098,
+          "image_url": "https://images.genius.com/c3dad93b4d939b50666ecfb4d2740936.1000x1000x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "ROBA Music Publishing",
+          "url": "https://genius.com/artists/Roba-music-publishing"
+        },
+        {
+          "api_path": "/artists/648508",
+          "header_image_url": "https://images.genius.com/146f585e8c78f4bf0e2da7d55f08d6cd.375x375x1.jpg",
+          "id": 648508,
+          "image_url": "https://images.genius.com/146f585e8c78f4bf0e2da7d55f08d6cd.375x375x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Rondor Music",
+          "url": "https://genius.com/artists/Rondor-music"
+        },
+        {
+          "api_path": "/artists/2255859",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2255859,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Rosemac Music",
+          "url": "https://genius.com/artists/Rosemac-music"
+        },
+        {
+          "api_path": "/artists/1506497",
+          "header_image_url": "https://images.genius.com/8a9f21cde090346e0aba49e40895898f.1000x1000x1.png",
+          "id": 1506497,
+          "image_url": "https://images.genius.com/8a9f21cde090346e0aba49e40895898f.1000x1000x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "The Royalty Network",
+          "url": "https://genius.com/artists/The-royalty-network"
+        },
+        {
+          "api_path": "/artists/2208052",
+          "header_image_url": "https://images.genius.com/51f4c4fb83a98d733c7dcfe4e717917e.1000x1000x1.png",
+          "id": 2208052,
+          "image_url": "https://images.genius.com/51f4c4fb83a98d733c7dcfe4e717917e.1000x1000x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "SBK Records",
+          "url": "https://genius.com/artists/Sbk-records"
+        },
+        {
+          "api_path": "/artists/1588007",
+          "header_image_url": "https://images.genius.com/66e7edf9911fb56b811b8a4c720dcfe7.1000x1000x1.png",
+          "id": 1588007,
+          "image_url": "https://images.genius.com/66e7edf9911fb56b811b8a4c720dcfe7.1000x1000x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Songtrust",
+          "url": "https://genius.com/artists/Songtrust"
+        },
+        {
+          "api_path": "/artists/2153218",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2153218,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Sony/ATV Allegro",
+          "url": "https://genius.com/artists/Sony-atv-allegro"
+        },
+        {
+          "api_path": "/artists/2275429",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2275429,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Sony/ATV Discos",
+          "url": "https://genius.com/artists/Sony-atv-discos"
+        },
+        {
+          "api_path": "/artists/2261510",
+          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/6filx7uda04",
+          "id": 2261510,
+          "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/6filx7uda04",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Sony/ATV Tunes",
+          "url": "https://genius.com/artists/Sony-atv-tunes"
+        },
+        {
+          "api_path": "/artists/88331",
+          "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+          "id": 88331,
+          "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Sony Music Entertainment",
+          "url": "https://genius.com/artists/Sony-music-entertainment"
+        },
+        {
+          "api_path": "/artists/958",
+          "header_image_url": "https://images.genius.com/0e814dfb3a569f7359ad39cf68595217.1000x166x1.jpg",
+          "id": 958,
+          "image_url": "https://images.genius.com/42c5e270ecdaabe60f38f09b7990dd3e.750x750x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Sufjan Stevens",
+          "url": "https://genius.com/artists/Sufjan-stevens"
+        },
+        {
+          "api_path": "/artists/2235073",
+          "header_image_url": "https://images.genius.com/ca5dbba9264b6779db47fa30f8189f12.512x512x1.jpg",
+          "id": 2235073,
+          "image_url": "https://images.genius.com/ca5dbba9264b6779db47fa30f8189f12.512x512x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Third Side Music",
+          "url": "https://genius.com/artists/Third-side-music"
+        },
+        {
+          "api_path": "/artists/1108010",
+          "header_image_url": "https://images.genius.com/b6d0cd73308dc9c8c514b5c11081f1a5.500x333x1.jpg",
+          "id": 1108010,
+          "image_url": "https://images.genius.com/8d7bc7b0d6188a564b2b0cc553fbe199.899x899x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Top Dawg Entertainment",
+          "url": "https://genius.com/artists/Top-dawg-entertainment"
+        },
+        {
+          "api_path": "/artists/2318330",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2318330,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Uncle Buddie’s Music",
+          "url": "https://genius.com/artists/Uncle-buddies-music"
+        },
+        {
+          "api_path": "/artists/1104563",
+          "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+          "id": 1104563,
+          "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Universal Music Group",
+          "url": "https://genius.com/artists/Universal-music-group"
+        },
+        {
+          "api_path": "/artists/649294",
+          "header_image_url": "https://images.genius.com/7b9c33d6905bad2ae8556178667abcdc.900x900x1.png",
+          "id": 649294,
+          "image_url": "https://images.genius.com/402247ed5f42660a2c388f18e29caa2f.900x900x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Virgin Records",
+          "url": "https://genius.com/artists/Virgin-records"
+        },
+        {
+          "api_path": "/artists/2235743",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2235743,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Volume Ventures",
+          "url": "https://genius.com/artists/Volume-ventures"
+        },
+        {
+          "api_path": "/artists/1152704",
+          "header_image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+          "id": 1152704,
+          "image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Warner/Chappell",
+          "url": "https://genius.com/artists/Warner-chappell"
+        },
+        {
+          "api_path": "/artists/1112276",
+          "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+          "id": 1112276,
+          "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Warner Music Group",
+          "url": "https://genius.com/artists/Warner-music-group"
+        },
+        {
+          "api_path": "/artists/2318349",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 2318349,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Whiskey Valentine Publishing",
+          "url": "https://genius.com/artists/Whiskey-valentine-publishing"
+        },
+        {
+          "api_path": "/artists/645782",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 645782,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Windswept Music",
+          "url": "https://genius.com/artists/Windswept-music"
+        }
+      ]
+    },
+    {
+      "label": "Recording Engineer",
+      "artists": [
+        {
+          "api_path": "/artists/643428",
+          "header_image_url": "https://images.genius.com/8201b903494e294107426090a1f176d5.400x400x1.jpg",
+          "id": 643428,
+          "image_url": "https://images.genius.com/8201b903494e294107426090a1f176d5.400x400x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Matt Schaeffer",
+          "url": "https://genius.com/artists/Matt-schaeffer"
+        },
+        {
+          "api_path": "/artists/640014",
+          "header_image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+          "id": 640014,
+          "image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Mixed by Ali",
+          "url": "https://genius.com/artists/Mixed-by-ali"
+        },
+        {
+          "api_path": "/artists/642699",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 642699,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "The White Black Man",
+          "url": "https://genius.com/artists/The-white-black-man"
+        }
+      ]
+    },
+    {
+      "label": "Sampled Vocals",
+      "artists": [
+        {
+          "api_path": "/artists/59",
+          "header_image_url": "https://images.genius.com/79fbacd61e68def6ce3866b03117b0c3.800x480x1.png",
+          "id": 59,
+          "image_url": "https://images.genius.com/f015779ccb48ef5d37bf5cf1666b6b29.400x400x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "2Pac",
+          "url": "https://genius.com/artists/2pac"
+        }
+      ]
+    },
+    {
+      "label": "Scratches",
+      "artists": [
+        {
+          "api_path": "/artists/100",
+          "header_image_url": "https://images.genius.com/286f53fc968cbd65e446e8d0f03f7c5e.347x347x1.png",
+          "id": 100,
+          "image_url": "https://images.genius.com/286f53fc968cbd65e446e8d0f03f7c5e.347x347x1.png",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Pete Rock",
+          "url": "https://genius.com/artists/Pete-rock"
+        }
+      ]
+    },
+    {
+      "label": "Tenor Saxophone",
+      "artists": [
+        {
+          "api_path": "/artists/500783",
+          "header_image_url": "https://images.genius.com/36b7710d296c50f17927f2bd761e0dd8.1000x562x1.jpg",
+          "id": 500783,
+          "image_url": "https://images.genius.com/2d1cf0610b22c6e3e119b1422b1b5d56.731x731x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kamasi Washington",
+          "url": "https://genius.com/artists/Kamasi-washington"
+        }
+      ]
+    },
+    {
+      "label": "Trombone",
+      "artists": [
+        {
+          "api_path": "/artists/612501",
+          "header_image_url": "https://images.genius.com/d0a40b68d5a53ae7f173394d7d9a1079.713x475x1.jpg",
+          "id": 612501,
+          "image_url": "https://images.genius.com/655a98ef0ae30f80af062f09b965f35f.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ryan Porter",
+          "url": "https://genius.com/artists/Ryan-porter"
+        }
+      ]
+    },
+    {
+      "label": "Trumpet",
+      "artists": [
+        {
+          "api_path": "/artists/531773",
+          "header_image_url": "https://images.genius.com/8a3b5ba9a3dbd3e743f609ffa202a7bc.1000x1000x1.jpg",
+          "id": 531773,
+          "image_url": "https://images.genius.com/09e9d7a623b5fb51840760e2f4fad1ed.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ambrose Akinmusire",
+          "url": "https://genius.com/artists/Ambrose-akinmusire"
+        },
+        {
+          "api_path": "/artists/47281",
+          "header_image_url": "https://images.genius.com/f8804253d7d2ffe23b02a7f9c1f691e9.600x600x1.jpg",
+          "id": 47281,
+          "image_url": "https://images.genius.com/f8804253d7d2ffe23b02a7f9c1f691e9.600x600x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Josef Leimberg",
+          "url": "https://genius.com/artists/Josef-leimberg"
+        }
+      ]
+    },
+    {
+      "label": "Upright Bass",
+      "artists": [
+        {
+          "api_path": "/artists/642701",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 642701,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Gabriel Noel",
+          "url": "https://genius.com/artists/Gabriel-noel"
+        },
+        {
+          "api_path": "/artists/612504",
+          "header_image_url": "https://images.genius.com/935734733b8d6aac23deb165809951c2.1000x667x1.jpg",
+          "id": 612504,
+          "image_url": "https://images.genius.com/fec80cda3bdd8505e691682a95a34d28.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Miles Mosley",
+          "url": "https://genius.com/artists/Miles-mosley"
+        }
+      ]
+    },
+    {
+      "label": "Video Director",
+      "artists": [
+        {
+          "api_path": "/artists/117635",
+          "header_image_url": "https://images.genius.com/cd83a97bfc9d194bc5c23223367f3a46.800x800x1.jpg",
+          "id": 117635,
+          "image_url": "https://images.genius.com/cd83a97bfc9d194bc5c23223367f3a46.800x800x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Director X",
+          "url": "https://genius.com/artists/Director-x"
+        },
+        {
+          "api_path": "/artists/822864",
+          "header_image_url": "https://images.genius.com/054e6097bdc80885825f55cf11d95668.400x400x1.jpg",
+          "id": 822864,
+          "image_url": "https://images.genius.com/5d97f0ebea68f5fdd157b0c8b16b931d.526x526x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "The Little Homies",
+          "url": "https://genius.com/artists/The-little-homies"
+        }
+      ]
+    },
+    {
+      "label": "Viola",
+      "artists": [
+        {
+          "api_path": "/artists/612511",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 612511,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Andrea Whitt",
+          "url": "https://genius.com/artists/Andrea-whitt"
+        },
+        {
+          "api_path": "/artists/612510",
+          "header_image_url": "https://images.genius.com/30681523eb3111a07281b95f802fa739.1000x1000x1.jpg",
+          "id": 612510,
+          "image_url": "https://images.genius.com/6ebebd380a0d811c9fc80bd76ab40992.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Molly Rogers",
+          "url": "https://genius.com/artists/Molly-rogers"
+        }
+      ]
+    },
+    {
+      "label": "Violin",
+      "artists": [
+        {
+          "api_path": "/artists/1201025",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1201025,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Jen Simone",
+          "url": "https://genius.com/artists/Jen-simone"
+        },
+        {
+          "api_path": "/artists/612506",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 612506,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Neel Hammond",
+          "url": "https://genius.com/artists/Neel-hammond"
+        },
+        {
+          "api_path": "/artists/612508",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 612508,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Paul Cartwright",
+          "url": "https://genius.com/artists/Paul-cartwright"
+        },
+        {
+          "api_path": "/artists/642702",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 642702,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Paul Carwright",
+          "url": "https://genius.com/artists/Paul-carwright"
+        },
+        {
+          "api_path": "/artists/1201026",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "id": 1201026,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Tylana Enomoto",
+          "url": "https://genius.com/artists/Tylana-enomoto"
+        }
+      ]
+    },
+    {
+      "label": "Vocoder",
+      "artists": [
+        {
+          "api_path": "/artists/13291",
+          "header_image_url": "https://images.genius.com/dc8bfda4018564fb61dc175f8e8f38d9.900x506x1.jpg",
+          "id": 13291,
+          "image_url": "https://images.genius.com/2747d1dbded3ab46deeda76498bdcf2c.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Terrace Martin",
+          "url": "https://genius.com/artists/Terrace-martin",
+          "iq": 194
+        }
+      ]
+    }
+  ]
+}

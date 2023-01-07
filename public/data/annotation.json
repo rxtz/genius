@@ -1,0 +1,622 @@
+{
+  "api_path": "/annotations/5047528",
+  "body": {
+    "dom": {
+      "tag": "root",
+      "children": [
+        {
+          "tag": "blockquote",
+          "children": [
+            {
+              "tag": "p",
+              "children": [
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/4265663/",
+                    "rel": "noopener"
+                  },
+                  "children": [
+                    "No weapon on me shall prosper"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "",
+        {
+          "tag": "p",
+          "children": [
+            "Kendrick plays with the idea that we address God differently depending on the circumstance, but feels that with real faith on his side, nothing can harm him. Kendrick often ",
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "http://www.buzzfeed.com/reggieugwu/the-radical-christianity-of-kendrick-lamar#.tdzZQMGVK",
+                "rel": "noopener nofollow"
+              },
+              "children": [
+                "incorporates religious imagery and ideas in his lyrics"
+              ]
+            },
+            " and this song is no different. Many Christians believe that God has a plan and if you’re actively a part of that plan, everything will ultimately be ok."
+          ]
+        },
+        "",
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "src": "https://images.rapgenius.com/fbc36695cc2a9054839508f69f4653c1.968x662x1.jpg",
+                "alt": "",
+                "width": 968,
+                "height": 662
+              },
+              "data": {
+                "animated": "false",
+                "thumbnail": {
+                  "src": "https://images.rapgenius.com/fbc36695cc2a9054839508f69f4653c1.300x205x1.jpg",
+                  "height": 205,
+                  "width": 300
+                }
+              }
+            }
+          ]
+        },
+        "",
+        {
+          "tag": "p",
+          "children": [
+            "“We gon' be alright,” is repeated throughout the track to send a message of hope; despite the pain and suffering, in solidarity we will survive. This message is deeply associated with ",
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "http://blacklivesmatter.com/about/",
+                "rel": "noopener nofollow"
+              },
+              "children": [
+                "Black Lives Matter"
+              ]
+            },
+            " and the fight against police brutality of black and brown bodies. In solidarity, activists across the United States ",
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "http://www.slate.com/articles/arts/culturebox/2015/08/black_lives_matter_protesters_chant_kendrick_lamar_s_alright_what_makes.html",
+                "rel": "noopener nofollow"
+              },
+              "children": [
+                "chant “We gon' be alright.”"
+              ]
+            },
+            {
+              "tag": "br"
+            },
+            "",
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "https://www.youtube.com/watch?v=VUC_DOhfzwQ",
+                "rel": "noopener nofollow"
+              },
+              "children": [
+                "https://www.youtube.com/watch?v=VUC_DOhfzwQ"
+              ]
+            }
+          ]
+        },
+        "",
+        {
+          "tag": "p",
+          "children": [
+            "Nazareth, Israel is reputedly where Jesus grew up, studied and prayed. It was thought to be a low, foul city and Nathaneal asked (after learning that Jesus hailed from here) “Can anything good come out of Nazareth?” (John 1:46). His hometown caused many to shun him.",
+            {
+              "tag": "br"
+            },
+            "Kendrick could be drawing parallels from Nazareth to his city of Compton, California."
+          ]
+        }
+      ]
+    }
+  },
+  "comment_count": 6,
+  "community": true,
+  "custom_preview": null,
+  "has_voters": true,
+  "id": 5047528,
+  "pinned": false,
+  "share_url": "https://genius.com/5047528",
+  "source": null,
+  "state": "accepted",
+  "url": "https://genius.com/5047528/Kendrick-lamar-alright/Hard-times-like-yah-bad-trips-like-yah-nazareth-im-fucked-up-homie-you-fucked-up-but-if-god-got-us-then-we-gon-be-alright",
+  "verified": false,
+  "votes_total": 644,
+  "current_user_metadata": {
+    "permissions": [
+      "vote",
+      "propose_edit_to",
+      "create_comment"
+    ],
+    "excluded_permissions": [
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+    ],
+    "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+    },
+    "iq_by_action": {
+      "accept": {
+        "primary": {
+          "multiplier": 1,
+          "base": 10,
+          "applicable": true
+        }
+      },
+      "reject": {
+        "primary": {
+          "multiplier": 1,
+          "base": 2,
+          "applicable": true
+        }
+      },
+      "delete": {
+        "primary": {
+          "multiplier": 1,
+          "base": 5,
+          "applicable": true
+        }
+      }
+    }
+  },
+  "authors": [
+    {
+      "attribution": 0.2885375494071146,
+      "pinned_role": null,
+      "user": {
+        "api_path": "/users/438291",
+        "avatar": {
+          "tiny": {
+            "url": "https://images.rapgenius.com/avatars/tiny/a147cf1b8e30b8d5ba982d2c7f5aa9a8",
+            "bounding_box": {
+              "width": 16,
+              "height": 16
+            }
+          },
+          "thumb": {
+            "url": "https://images.rapgenius.com/avatars/thumb/a147cf1b8e30b8d5ba982d2c7f5aa9a8",
+            "bounding_box": {
+              "width": 32,
+              "height": 32
+            }
+          },
+          "small": {
+            "url": "https://images.rapgenius.com/avatars/small/a147cf1b8e30b8d5ba982d2c7f5aa9a8",
+            "bounding_box": {
+              "width": 100,
+              "height": 100
+            }
+          },
+          "medium": {
+            "url": "https://images.rapgenius.com/avatars/medium/a147cf1b8e30b8d5ba982d2c7f5aa9a8",
+            "bounding_box": {
+              "width": 300,
+              "height": 400
+            }
+          }
+        },
+        "header_image_url": "https://images.rapgenius.com/avatars/medium/a147cf1b8e30b8d5ba982d2c7f5aa9a8",
+        "human_readable_role_for_display": "Contributor",
+        "id": 438291,
+        "iq": 15198,
+        "login": "HanzDown",
+        "name": "HanzDown",
+        "role_for_display": "contributor",
+        "url": "https://genius.com/HanzDown",
+        "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+            "follow"
+          ],
+          "interactions": {
+            "following": false
+          }
+        }
+      }
+    },
+    {
+      "attribution": 0.23715415019762848,
+      "pinned_role": null,
+      "user": {
+        "api_path": "/users/4489697",
+        "avatar": {
+          "tiny": {
+            "url": "https://images.genius.com/avatars/tiny/f0af7940c80ca1e6d0927f62db01b27d",
+            "bounding_box": {
+              "width": 16,
+              "height": 16
+            }
+          },
+          "thumb": {
+            "url": "https://images.genius.com/avatars/thumb/f0af7940c80ca1e6d0927f62db01b27d",
+            "bounding_box": {
+              "width": 32,
+              "height": 32
+            }
+          },
+          "small": {
+            "url": "https://images.genius.com/avatars/small/f0af7940c80ca1e6d0927f62db01b27d",
+            "bounding_box": {
+              "width": 100,
+              "height": 100
+            }
+          },
+          "medium": {
+            "url": "https://images.genius.com/avatars/medium/f0af7940c80ca1e6d0927f62db01b27d",
+            "bounding_box": {
+              "width": 300,
+              "height": 400
+            }
+          }
+        },
+        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/4fslta8py36",
+        "human_readable_role_for_display": "Editor",
+        "id": 4489697,
+        "iq": 4895,
+        "login": "blondedandbold",
+        "name": "blondedandbold",
+        "role_for_display": "editor",
+        "url": "https://genius.com/blondedandbold",
+        "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+            "follow"
+          ],
+          "interactions": {
+            "following": false
+          }
+        }
+      }
+    },
+    {
+      "attribution": 0.21343873517786563,
+      "pinned_role": null,
+      "user": {
+        "api_path": "/users/286029",
+        "avatar": {
+          "tiny": {
+            "url": "https://images.rapgenius.com/avatars/tiny/241bcd313327183d9c7d43b06f2dbd4a",
+            "bounding_box": {
+              "width": 16,
+              "height": 16
+            }
+          },
+          "thumb": {
+            "url": "https://images.rapgenius.com/avatars/thumb/241bcd313327183d9c7d43b06f2dbd4a",
+            "bounding_box": {
+              "width": 32,
+              "height": 32
+            }
+          },
+          "small": {
+            "url": "https://images.rapgenius.com/avatars/small/241bcd313327183d9c7d43b06f2dbd4a",
+            "bounding_box": {
+              "width": 100,
+              "height": 100
+            }
+          },
+          "medium": {
+            "url": "https://images.rapgenius.com/avatars/medium/241bcd313327183d9c7d43b06f2dbd4a",
+            "bounding_box": {
+              "width": 300,
+              "height": 400
+            }
+          }
+        },
+        "header_image_url": "https://images.rapgenius.com/avatars/medium/241bcd313327183d9c7d43b06f2dbd4a",
+        "human_readable_role_for_display": "Editor",
+        "id": 286029,
+        "iq": 12712,
+        "login": "jaelevator",
+        "name": "jaelevator",
+        "role_for_display": "editor",
+        "url": "https://genius.com/jaelevator",
+        "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+            "follow"
+          ],
+          "interactions": {
+            "following": false
+          }
+        }
+      }
+    },
+    {
+      "attribution": 0.13043478260869565,
+      "pinned_role": null,
+      "user": {
+        "api_path": "/users/605899",
+        "avatar": {
+          "tiny": {
+            "url": "https://assets.genius.com/images/default_avatar_16.png?1671727067",
+            "bounding_box": {
+              "width": 16,
+              "height": 16
+            }
+          },
+          "thumb": {
+            "url": "https://assets.genius.com/images/default_avatar_32.png?1671727067",
+            "bounding_box": {
+              "width": 32,
+              "height": 32
+            }
+          },
+          "small": {
+            "url": "https://assets.genius.com/images/default_avatar_100.png?1671727067",
+            "bounding_box": {
+              "width": 100,
+              "height": 100
+            }
+          },
+          "medium": {
+            "url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+            "bounding_box": {
+              "width": 300,
+              "height": 400
+            }
+          }
+        },
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+        "human_readable_role_for_display": "Contributor",
+        "id": 605899,
+        "iq": 26798,
+        "login": "CaptainDinga",
+        "name": "Captain Dinga",
+        "role_for_display": "contributor",
+        "url": "https://genius.com/CaptainDinga",
+        "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+            "follow"
+          ],
+          "interactions": {
+            "following": false
+          }
+        }
+      }
+    },
+    {
+      "attribution": 0.09090909090909091,
+      "pinned_role": null,
+      "user": {
+        "api_path": "/users/143119",
+        "avatar": {
+          "tiny": {
+            "url": "https://images.genius.com/avatars/tiny/435bf4128688f7daf8886838ca43fdb7",
+            "bounding_box": {
+              "width": 16,
+              "height": 16
+            }
+          },
+          "thumb": {
+            "url": "https://images.genius.com/avatars/thumb/435bf4128688f7daf8886838ca43fdb7",
+            "bounding_box": {
+              "width": 32,
+              "height": 32
+            }
+          },
+          "small": {
+            "url": "https://images.genius.com/avatars/small/435bf4128688f7daf8886838ca43fdb7",
+            "bounding_box": {
+              "width": 100,
+              "height": 100
+            }
+          },
+          "medium": {
+            "url": "https://images.genius.com/avatars/medium/435bf4128688f7daf8886838ca43fdb7",
+            "bounding_box": {
+              "width": 300,
+              "height": 400
+            }
+          }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/435bf4128688f7daf8886838ca43fdb7",
+        "human_readable_role_for_display": "Moderator",
+        "id": 143119,
+        "iq": 196006,
+        "login": "TheScrivener",
+        "name": "Elizabeth Milch",
+        "role_for_display": "moderator",
+        "url": "https://genius.com/TheScrivener",
+        "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+            "follow"
+          ],
+          "interactions": {
+            "following": false
+          }
+        }
+      }
+    },
+    {
+      "attribution": 0.023715415019762848,
+      "pinned_role": null,
+      "user": {
+        "api_path": "/users/240293",
+        "avatar": {
+          "tiny": {
+            "url": "https://assets.genius.com/images/default_avatar_16.png?1671727067",
+            "bounding_box": {
+              "width": 16,
+              "height": 16
+            }
+          },
+          "thumb": {
+            "url": "https://assets.genius.com/images/default_avatar_32.png?1671727067",
+            "bounding_box": {
+              "width": 32,
+              "height": 32
+            }
+          },
+          "small": {
+            "url": "https://assets.genius.com/images/default_avatar_100.png?1671727067",
+            "bounding_box": {
+              "width": 100,
+              "height": 100
+            }
+          },
+          "medium": {
+            "url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+            "bounding_box": {
+              "width": 300,
+              "height": 400
+            }
+          }
+        },
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+        "human_readable_role_for_display": "Contributor",
+        "id": 240293,
+        "iq": 497,
+        "login": "napoleangreen",
+        "name": "napoleangreen",
+        "role_for_display": "contributor",
+        "url": "https://genius.com/napoleangreen",
+        "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+            "follow"
+          ],
+          "interactions": {
+            "following": false
+          }
+        }
+      }
+    },
+    {
+      "attribution": 0.011857707509881424,
+      "pinned_role": null,
+      "user": {
+        "api_path": "/users/2249441",
+        "avatar": {
+          "tiny": {
+            "url": "https://images.genius.com/avatars/tiny/e1dcda0f985803f4ba0f8d71731adb89",
+            "bounding_box": {
+              "width": 16,
+              "height": 16
+            }
+          },
+          "thumb": {
+            "url": "https://images.genius.com/avatars/thumb/e1dcda0f985803f4ba0f8d71731adb89",
+            "bounding_box": {
+              "width": 32,
+              "height": 32
+            }
+          },
+          "small": {
+            "url": "https://images.genius.com/avatars/small/e1dcda0f985803f4ba0f8d71731adb89",
+            "bounding_box": {
+              "width": 100,
+              "height": 100
+            }
+          },
+          "medium": {
+            "url": "https://images.genius.com/avatars/medium/e1dcda0f985803f4ba0f8d71731adb89",
+            "bounding_box": {
+              "width": 300,
+              "height": 400
+            }
+          }
+        },
+        "header_image_url": "https://images.genius.com/ceb9e68c70776f34e006f6ac0db12aef.660x440x1.jpg",
+        "human_readable_role_for_display": "Moderator",
+        "id": 2249441,
+        "iq": 31657,
+        "login": "B4_Da_BASED",
+        "name": "OhMyGoodness",
+        "role_for_display": "moderator",
+        "url": "https://genius.com/B4_Da_BASED",
+        "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+            "follow"
+          ],
+          "interactions": {
+            "following": false
+          }
+        }
+      }
+    },
+    {
+      "attribution": 0.003952569169960474,
+      "pinned_role": null,
+      "user": {
+        "api_path": "/users/98861",
+        "avatar": {
+          "tiny": {
+            "url": "https://images.genius.com/avatars/tiny/d2316ce96f845dea8fc4a6c8f65a1136",
+            "bounding_box": {
+              "width": 16,
+              "height": 16
+            }
+          },
+          "thumb": {
+            "url": "https://images.genius.com/avatars/thumb/d2316ce96f845dea8fc4a6c8f65a1136",
+            "bounding_box": {
+              "width": 32,
+              "height": 32
+            }
+          },
+          "small": {
+            "url": "https://images.genius.com/avatars/small/d2316ce96f845dea8fc4a6c8f65a1136",
+            "bounding_box": {
+              "width": 100,
+              "height": 100
+            }
+          },
+          "medium": {
+            "url": "https://images.genius.com/avatars/medium/d2316ce96f845dea8fc4a6c8f65a1136",
+            "bounding_box": {
+              "width": 300,
+              "height": 400
+            }
+          }
+        },
+        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/f5fl80u7kgn",
+        "human_readable_role_for_display": "Contributor",
+        "id": 98861,
+        "iq": 7880,
+        "login": "waaxxie",
+        "name": "Waaxxie",
+        "role_for_display": "contributor",
+        "url": "https://genius.com/waaxxie",
+        "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+            "follow"
+          ],
+          "interactions": {
+            "following": false
+          }
+        }
+      }
+    }
+  ],
+  "cosigned_by": [],
+  "rejection_comment": null,
+  "verified_by": null
+}
