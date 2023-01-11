@@ -19,7 +19,7 @@ export default function Credits({ song }: { song: Song }) {
     <>
       <Table
         data={[
-          ...['Featured','Producer', 'Writer',]
+          ...['Featured', 'Producer', 'Writer']
             .map((r) => credits(r, song[`${r.toLowerCase()}_artists`]))
             .filter((c) => c.artist.length > 0),
           ...song.custom_performances.map((c) => credits(c.label, c.artists)),
